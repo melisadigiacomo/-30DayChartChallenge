@@ -1,0 +1,18 @@
+country,date_parsed,weekday,day,month,name_of_holiday,date_of_holiday,year_of_event,independence_from,event_commemorated_and_notes,year,date_mdy
+Argentina,1816-07-09,Tuesday,9,Jul,Independence Day,9-Jul,1816,Spanish Empire,Argentine Declaration of Independence,1816,"July 9, 1816"
+Brazil,1822-09-07,Saturday,7,Sep,Independence Day (Dia da Independência),7-Sep,1822,"United Kingdom of Portugal, Brazil and the Algarves",Declaration of independence by Pedro I of Brazil (see Independence of Brazil)[20],1822,"September 7, 1822"
+Chile,1810-09-18,Tuesday,18,Sep,Independence Day (part of Fiestas Patrias),18-Sep,1810,Spanish Empire,"Establishment of the Government Junta of Chile.[37] The following day, September 19, is celebrated as the Army Day.[38] The two holidays collectively are known as Fiestas Patrias.[39]",1810,"September 18, 1810"
+Colombia,1810-07-20,Friday,20,Jul,Independence Day,20-Jul,1810,Spanish Empire,Colombian Declaration of Independence,1810,"July 20, 1810"
+Ecuador,1822-05-24,Friday,24,May,,24-May,1822,Spanish Empire,Battle of Pichincha,1822,"May 24, 1822"
+Peru,1821-07-28,Saturday,28,Jul,Fiestas Patrias,28-Jul,1821,Spanish Empire,,1821,"July 28, 1821"
+Bolivia,1825-08-06,Saturday,6,Aug,Independence Day,6-Aug,1825,Spain,Bolivian Declaration of Independence,1825,"August 6, 1825"
+Venezuela,1811-07-05,Friday,5,Jul,Independence Day,5-Jul,1811,Spanish Empire,Venezuelan Declaration of Independence,1811,"July 5, 1811"
+Uruguay,1825-08-25,Thursday,25,Aug,Independence Day,25-Aug,1825,United Provinces of the Rio de la Plata,Declaration of independence and union with the United Provinces of the Rio de la Plata.,1825,"August 25, 1825"
+Suriname,11/25/1975,Tuesday,25,Nov,Independence Day,25-Nov,1975,Netherlands,,1975,25-Nov-75
+Paraguay,1811-05-14,Tuesday,14,May,Independence Day,14-May,1811,Spanish Empire[72],,1811,"May 14, 1811"
+Trinidad and Tobago,8/31/1962,Friday,31,Aug,Independence Day,31-Aug,1962,United Kingdom,Effective date of the Trinidad and Tobago Independence Act 1962,1962,1-Aug-62
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

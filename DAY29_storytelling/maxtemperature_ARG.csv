@@ -1,0 +1,2881 @@
+year,province,region,max_temperature,mean_province
+1901,Tierra del Fuego,Patagonia,9.85,8.59
+1902,Tierra del Fuego,Patagonia,9.01,8.59
+1903,Tierra del Fuego,Patagonia,9.16,8.59
+1904,Tierra del Fuego,Patagonia,9.17,8.59
+1905,Tierra del Fuego,Patagonia,8.24,8.59
+1906,Tierra del Fuego,Patagonia,8.08,8.59
+1907,Tierra del Fuego,Patagonia,8.12,8.59
+1908,Tierra del Fuego,Patagonia,8.07,8.59
+1909,Tierra del Fuego,Patagonia,7.58,8.59
+1910,Tierra del Fuego,Patagonia,8.88,8.59
+1911,Tierra del Fuego,Patagonia,8.79,8.59
+1912,Tierra del Fuego,Patagonia,9.35,8.59
+1913,Tierra del Fuego,Patagonia,8.6,8.59
+1914,Tierra del Fuego,Patagonia,8.46,8.59
+1915,Tierra del Fuego,Patagonia,8.6,8.59
+1916,Tierra del Fuego,Patagonia,9.47,8.59
+1917,Tierra del Fuego,Patagonia,9.63,8.59
+1918,Tierra del Fuego,Patagonia,8.99,8.59
+1919,Tierra del Fuego,Patagonia,9.53,8.59
+1920,Tierra del Fuego,Patagonia,9.32,8.59
+1921,Tierra del Fuego,Patagonia,8.95,8.59
+1922,Tierra del Fuego,Patagonia,8.99,8.59
+1923,Tierra del Fuego,Patagonia,7.93,8.59
+1924,Tierra del Fuego,Patagonia,8.87,8.59
+1925,Tierra del Fuego,Patagonia,8.35,8.59
+1926,Tierra del Fuego,Patagonia,8.24,8.59
+1927,Tierra del Fuego,Patagonia,8.51,8.59
+1928,Tierra del Fuego,Patagonia,8.81,8.59
+1929,Tierra del Fuego,Patagonia,8.85,8.59
+1930,Tierra del Fuego,Patagonia,8.68,8.59
+1931,Tierra del Fuego,Patagonia,8.6,8.59
+1932,Tierra del Fuego,Patagonia,8.17,8.59
+1933,Tierra del Fuego,Patagonia,8.6,8.59
+1934,Tierra del Fuego,Patagonia,8.71,8.59
+1935,Tierra del Fuego,Patagonia,8.14,8.59
+1936,Tierra del Fuego,Patagonia,8.82,8.59
+1937,Tierra del Fuego,Patagonia,8.16,8.59
+1938,Tierra del Fuego,Patagonia,8.28,8.59
+1939,Tierra del Fuego,Patagonia,7.75,8.59
+1940,Tierra del Fuego,Patagonia,8.58,8.59
+1941,Tierra del Fuego,Patagonia,8.57,8.59
+1942,Tierra del Fuego,Patagonia,8.58,8.59
+1943,Tierra del Fuego,Patagonia,9.31,8.59
+1944,Tierra del Fuego,Patagonia,8.49,8.59
+1945,Tierra del Fuego,Patagonia,8.87,8.59
+1946,Tierra del Fuego,Patagonia,8.18,8.59
+1947,Tierra del Fuego,Patagonia,8.93,8.59
+1948,Tierra del Fuego,Patagonia,8.12,8.59
+1949,Tierra del Fuego,Patagonia,8.5,8.59
+1950,Tierra del Fuego,Patagonia,7.9,8.59
+1951,Tierra del Fuego,Patagonia,8.54,8.59
+1952,Tierra del Fuego,Patagonia,8.98,8.59
+1953,Tierra del Fuego,Patagonia,8.41,8.59
+1954,Tierra del Fuego,Patagonia,8.24,8.59
+1955,Tierra del Fuego,Patagonia,8.47,8.59
+1956,Tierra del Fuego,Patagonia,8.93,8.59
+1957,Tierra del Fuego,Patagonia,8.33,8.59
+1958,Tierra del Fuego,Patagonia,8.13,8.59
+1959,Tierra del Fuego,Patagonia,8.02,8.59
+1960,Tierra del Fuego,Patagonia,9.12,8.59
+1961,Tierra del Fuego,Patagonia,8.08,8.59
+1962,Tierra del Fuego,Patagonia,9.32,8.59
+1963,Tierra del Fuego,Patagonia,7.92,8.59
+1964,Tierra del Fuego,Patagonia,8.27,8.59
+1965,Tierra del Fuego,Patagonia,8.76,8.59
+1966,Tierra del Fuego,Patagonia,8.22,8.59
+1967,Tierra del Fuego,Patagonia,8.26,8.59
+1968,Tierra del Fuego,Patagonia,9.03,8.59
+1969,Tierra del Fuego,Patagonia,8.02,8.59
+1970,Tierra del Fuego,Patagonia,8.39,8.59
+1971,Tierra del Fuego,Patagonia,7.51,8.59
+1972,Tierra del Fuego,Patagonia,7.87,8.59
+1973,Tierra del Fuego,Patagonia,8.01,8.59
+1974,Tierra del Fuego,Patagonia,8.9,8.59
+1975,Tierra del Fuego,Patagonia,8.72,8.59
+1976,Tierra del Fuego,Patagonia,7.88,8.59
+1977,Tierra del Fuego,Patagonia,8.36,8.59
+1978,Tierra del Fuego,Patagonia,8.72,8.59
+1979,Tierra del Fuego,Patagonia,8.96,8.59
+1980,Tierra del Fuego,Patagonia,8.13,8.59
+1981,Tierra del Fuego,Patagonia,8.52,8.59
+1982,Tierra del Fuego,Patagonia,8.67,8.59
+1983,Tierra del Fuego,Patagonia,8.86,8.59
+1984,Tierra del Fuego,Patagonia,8.05,8.59
+1985,Tierra del Fuego,Patagonia,9.06,8.59
+1986,Tierra del Fuego,Patagonia,8.1,8.59
+1987,Tierra del Fuego,Patagonia,8.95,8.59
+1988,Tierra del Fuego,Patagonia,8.72,8.59
+1989,Tierra del Fuego,Patagonia,8.9,8.59
+1990,Tierra del Fuego,Patagonia,8.6,8.59
+1991,Tierra del Fuego,Patagonia,8.34,8.59
+1992,Tierra del Fuego,Patagonia,8.5,8.59
+1993,Tierra del Fuego,Patagonia,9.22,8.59
+1994,Tierra del Fuego,Patagonia,8.72,8.59
+1995,Tierra del Fuego,Patagonia,8.65,8.59
+1996,Tierra del Fuego,Patagonia,9.33,8.59
+1997,Tierra del Fuego,Patagonia,8.09,8.59
+1998,Tierra del Fuego,Patagonia,9.43,8.59
+1999,Tierra del Fuego,Patagonia,8.85,8.59
+2000,Tierra del Fuego,Patagonia,7.62,8.59
+2001,Tierra del Fuego,Patagonia,8.21,8.59
+2002,Tierra del Fuego,Patagonia,7.52,8.59
+2003,Tierra del Fuego,Patagonia,8.58,8.59
+2004,Tierra del Fuego,Patagonia,9.43,8.59
+2005,Tierra del Fuego,Patagonia,8.56,8.59
+2006,Tierra del Fuego,Patagonia,8.94,8.59
+2007,Tierra del Fuego,Patagonia,8.44,8.59
+2008,Tierra del Fuego,Patagonia,9.18,8.59
+2009,Tierra del Fuego,Patagonia,8.73,8.59
+2010,Tierra del Fuego,Patagonia,8.85,8.59
+2011,Tierra del Fuego,Patagonia,8.7,8.59
+2012,Tierra del Fuego,Patagonia,8.38,8.59
+2013,Tierra del Fuego,Patagonia,8.87,8.59
+2014,Tierra del Fuego,Patagonia,8.35,8.59
+2015,Tierra del Fuego,Patagonia,8.29,8.59
+2016,Tierra del Fuego,Patagonia,9.17,8.59
+2017,Tierra del Fuego,Patagonia,8.85,8.59
+2018,Tierra del Fuego,Patagonia,8.76,8.59
+2019,Tierra del Fuego,Patagonia,8.51,8.59
+2020,Tierra del Fuego,Patagonia,8.93,8.59
+1901,Santa Cruz,Patagonia,13.66,13
+1902,Santa Cruz,Patagonia,12.86,13
+1903,Santa Cruz,Patagonia,13.01,13
+1904,Santa Cruz,Patagonia,13.38,13
+1905,Santa Cruz,Patagonia,12.74,13
+1906,Santa Cruz,Patagonia,12.87,13
+1907,Santa Cruz,Patagonia,12.48,13
+1908,Santa Cruz,Patagonia,12.66,13
+1909,Santa Cruz,Patagonia,12.42,13
+1910,Santa Cruz,Patagonia,12.95,13
+1911,Santa Cruz,Patagonia,12.88,13
+1912,Santa Cruz,Patagonia,13.37,13
+1913,Santa Cruz,Patagonia,13.14,13
+1914,Santa Cruz,Patagonia,12.77,13
+1915,Santa Cruz,Patagonia,12.85,13
+1916,Santa Cruz,Patagonia,13.32,13
+1917,Santa Cruz,Patagonia,13.77,13
+1918,Santa Cruz,Patagonia,13.04,13
+1919,Santa Cruz,Patagonia,13.42,13
+1920,Santa Cruz,Patagonia,13.28,13
+1921,Santa Cruz,Patagonia,12.94,13
+1922,Santa Cruz,Patagonia,13.15,13
+1923,Santa Cruz,Patagonia,12.42,13
+1924,Santa Cruz,Patagonia,13.13,13
+1925,Santa Cruz,Patagonia,12.64,13
+1926,Santa Cruz,Patagonia,12.51,13
+1927,Santa Cruz,Patagonia,12.92,13
+1928,Santa Cruz,Patagonia,12.89,13
+1929,Santa Cruz,Patagonia,13.06,13
+1930,Santa Cruz,Patagonia,13.01,13
+1931,Santa Cruz,Patagonia,12.92,13
+1932,Santa Cruz,Patagonia,12.56,13
+1933,Santa Cruz,Patagonia,12.57,13
+1934,Santa Cruz,Patagonia,12.86,13
+1935,Santa Cruz,Patagonia,12.7,13
+1936,Santa Cruz,Patagonia,13.02,13
+1937,Santa Cruz,Patagonia,12.68,13
+1938,Santa Cruz,Patagonia,12.74,13
+1939,Santa Cruz,Patagonia,12.33,13
+1940,Santa Cruz,Patagonia,12.94,13
+1941,Santa Cruz,Patagonia,12.81,13
+1942,Santa Cruz,Patagonia,12.82,13
+1943,Santa Cruz,Patagonia,13.47,13
+1944,Santa Cruz,Patagonia,13.14,13
+1945,Santa Cruz,Patagonia,13.28,13
+1946,Santa Cruz,Patagonia,12.5,13
+1947,Santa Cruz,Patagonia,13.2,13
+1948,Santa Cruz,Patagonia,12.74,13
+1949,Santa Cruz,Patagonia,13.17,13
+1950,Santa Cruz,Patagonia,12.4,13
+1951,Santa Cruz,Patagonia,12.99,13
+1952,Santa Cruz,Patagonia,13.4,13
+1953,Santa Cruz,Patagonia,13.05,13
+1954,Santa Cruz,Patagonia,12.79,13
+1955,Santa Cruz,Patagonia,12.81,13
+1956,Santa Cruz,Patagonia,13.21,13
+1957,Santa Cruz,Patagonia,12.84,13
+1958,Santa Cruz,Patagonia,12.94,13
+1959,Santa Cruz,Patagonia,12.84,13
+1960,Santa Cruz,Patagonia,13.45,13
+1961,Santa Cruz,Patagonia,12.09,13
+1962,Santa Cruz,Patagonia,13.74,13
+1963,Santa Cruz,Patagonia,12.34,13
+1964,Santa Cruz,Patagonia,12.5,13
+1965,Santa Cruz,Patagonia,12.4,13
+1966,Santa Cruz,Patagonia,12.87,13
+1967,Santa Cruz,Patagonia,12.81,13
+1968,Santa Cruz,Patagonia,13.73,13
+1969,Santa Cruz,Patagonia,13.01,13
+1970,Santa Cruz,Patagonia,13.08,13
+1971,Santa Cruz,Patagonia,11.9,13
+1972,Santa Cruz,Patagonia,12.17,13
+1973,Santa Cruz,Patagonia,12.57,13
+1974,Santa Cruz,Patagonia,12.82,13
+1975,Santa Cruz,Patagonia,13.01,13
+1976,Santa Cruz,Patagonia,12.2,13
+1977,Santa Cruz,Patagonia,12.56,13
+1978,Santa Cruz,Patagonia,13.14,13
+1979,Santa Cruz,Patagonia,13.24,13
+1980,Santa Cruz,Patagonia,12.48,13
+1981,Santa Cruz,Patagonia,12.91,13
+1982,Santa Cruz,Patagonia,12.67,13
+1983,Santa Cruz,Patagonia,13.45,13
+1984,Santa Cruz,Patagonia,12.2,13
+1985,Santa Cruz,Patagonia,13.52,13
+1986,Santa Cruz,Patagonia,12.79,13
+1987,Santa Cruz,Patagonia,13.56,13
+1988,Santa Cruz,Patagonia,13.19,13
+1989,Santa Cruz,Patagonia,13.55,13
+1990,Santa Cruz,Patagonia,13.47,13
+1991,Santa Cruz,Patagonia,12.55,13
+1992,Santa Cruz,Patagonia,12.59,13
+1993,Santa Cruz,Patagonia,13.3,13
+1994,Santa Cruz,Patagonia,12.92,13
+1995,Santa Cruz,Patagonia,12.76,13
+1996,Santa Cruz,Patagonia,13.53,13
+1997,Santa Cruz,Patagonia,12.41,13
+1998,Santa Cruz,Patagonia,14.12,13
+1999,Santa Cruz,Patagonia,13.57,13
+2000,Santa Cruz,Patagonia,12.37,13
+2001,Santa Cruz,Patagonia,12.75,13
+2002,Santa Cruz,Patagonia,12.08,13
+2003,Santa Cruz,Patagonia,13.07,13
+2004,Santa Cruz,Patagonia,14.01,13
+2005,Santa Cruz,Patagonia,12.84,13
+2006,Santa Cruz,Patagonia,13.23,13
+2007,Santa Cruz,Patagonia,12.97,13
+2008,Santa Cruz,Patagonia,13.74,13
+2009,Santa Cruz,Patagonia,13.42,13
+2010,Santa Cruz,Patagonia,13.19,13
+2011,Santa Cruz,Patagonia,13.66,13
+2012,Santa Cruz,Patagonia,13.35,13
+2013,Santa Cruz,Patagonia,13.75,13
+2014,Santa Cruz,Patagonia,13.11,13
+2015,Santa Cruz,Patagonia,13.45,13
+2016,Santa Cruz,Patagonia,13.82,13
+2017,Santa Cruz,Patagonia,13.55,13
+2018,Santa Cruz,Patagonia,13.53,13
+2019,Santa Cruz,Patagonia,13.41,13
+2020,Santa Cruz,Patagonia,13.77,13
+1901,Chubut,Patagonia,16.53,16.19
+1902,Chubut,Patagonia,15.81,16.19
+1903,Chubut,Patagonia,15.93,16.19
+1904,Chubut,Patagonia,16.46,16.19
+1905,Chubut,Patagonia,15.94,16.19
+1906,Chubut,Patagonia,16.29,16.19
+1907,Chubut,Patagonia,15.62,16.19
+1908,Chubut,Patagonia,16.06,16.19
+1909,Chubut,Patagonia,16.06,16.19
+1910,Chubut,Patagonia,16.03,16.19
+1911,Chubut,Patagonia,15.81,16.19
+1912,Chubut,Patagonia,16.45,16.19
+1913,Chubut,Patagonia,16.7,16.19
+1914,Chubut,Patagonia,15.84,16.19
+1915,Chubut,Patagonia,15.89,16.19
+1916,Chubut,Patagonia,16.22,16.19
+1917,Chubut,Patagonia,16.9,16.19
+1918,Chubut,Patagonia,16.14,16.19
+1919,Chubut,Patagonia,16.35,16.19
+1920,Chubut,Patagonia,16.32,16.19
+1921,Chubut,Patagonia,15.94,16.19
+1922,Chubut,Patagonia,16.28,16.19
+1923,Chubut,Patagonia,15.66,16.19
+1924,Chubut,Patagonia,16.08,16.19
+1925,Chubut,Patagonia,15.69,16.19
+1926,Chubut,Patagonia,15.83,16.19
+1927,Chubut,Patagonia,16.15,16.19
+1928,Chubut,Patagonia,15.78,16.19
+1929,Chubut,Patagonia,16.16,16.19
+1930,Chubut,Patagonia,16.15,16.19
+1931,Chubut,Patagonia,15.77,16.19
+1932,Chubut,Patagonia,15.77,16.19
+1933,Chubut,Patagonia,15.47,16.19
+1934,Chubut,Patagonia,15.73,16.19
+1935,Chubut,Patagonia,16.06,16.19
+1936,Chubut,Patagonia,16.17,16.19
+1937,Chubut,Patagonia,16.03,16.19
+1938,Chubut,Patagonia,15.91,16.19
+1939,Chubut,Patagonia,15.66,16.19
+1940,Chubut,Patagonia,16.16,16.19
+1941,Chubut,Patagonia,15.96,16.19
+1942,Chubut,Patagonia,16.07,16.19
+1943,Chubut,Patagonia,16.71,16.19
+1944,Chubut,Patagonia,16.7,16.19
+1945,Chubut,Patagonia,16.59,16.19
+1946,Chubut,Patagonia,15.71,16.19
+1947,Chubut,Patagonia,16.46,16.19
+1948,Chubut,Patagonia,16,16.19
+1949,Chubut,Patagonia,16.44,16.19
+1950,Chubut,Patagonia,15.7,16.19
+1951,Chubut,Patagonia,16.17,16.19
+1952,Chubut,Patagonia,16.64,16.19
+1953,Chubut,Patagonia,16.73,16.19
+1954,Chubut,Patagonia,16.35,16.19
+1955,Chubut,Patagonia,16.26,16.19
+1956,Chubut,Patagonia,16.37,16.19
+1957,Chubut,Patagonia,16.2,16.19
+1958,Chubut,Patagonia,16.46,16.19
+1959,Chubut,Patagonia,16.14,16.19
+1960,Chubut,Patagonia,16.58,16.19
+1961,Chubut,Patagonia,15.51,16.19
+1962,Chubut,Patagonia,16.94,16.19
+1963,Chubut,Patagonia,15.55,16.19
+1964,Chubut,Patagonia,15.51,16.19
+1965,Chubut,Patagonia,15.6,16.19
+1966,Chubut,Patagonia,15.93,16.19
+1967,Chubut,Patagonia,16.14,16.19
+1968,Chubut,Patagonia,16.74,16.19
+1969,Chubut,Patagonia,16.26,16.19
+1970,Chubut,Patagonia,16.21,16.19
+1971,Chubut,Patagonia,15.28,16.19
+1972,Chubut,Patagonia,15.46,16.19
+1973,Chubut,Patagonia,15.92,16.19
+1974,Chubut,Patagonia,15.82,16.19
+1975,Chubut,Patagonia,16.18,16.19
+1976,Chubut,Patagonia,15.32,16.19
+1977,Chubut,Patagonia,16.06,16.19
+1978,Chubut,Patagonia,16.42,16.19
+1979,Chubut,Patagonia,16.72,16.19
+1980,Chubut,Patagonia,16.07,16.19
+1981,Chubut,Patagonia,16.24,16.19
+1982,Chubut,Patagonia,15.84,16.19
+1983,Chubut,Patagonia,16.51,16.19
+1984,Chubut,Patagonia,14.75,16.19
+1985,Chubut,Patagonia,16.49,16.19
+1986,Chubut,Patagonia,15.92,16.19
+1987,Chubut,Patagonia,16.78,16.19
+1988,Chubut,Patagonia,16.24,16.19
+1989,Chubut,Patagonia,17.1,16.19
+1990,Chubut,Patagonia,16.8,16.19
+1991,Chubut,Patagonia,15.75,16.19
+1992,Chubut,Patagonia,15.55,16.19
+1993,Chubut,Patagonia,16.17,16.19
+1994,Chubut,Patagonia,16.35,16.19
+1995,Chubut,Patagonia,16.09,16.19
+1996,Chubut,Patagonia,16.62,16.19
+1997,Chubut,Patagonia,15.91,16.19
+1998,Chubut,Patagonia,17.15,16.19
+1999,Chubut,Patagonia,16.77,16.19
+2000,Chubut,Patagonia,15.48,16.19
+2001,Chubut,Patagonia,16.16,16.19
+2002,Chubut,Patagonia,15.82,16.19
+2003,Chubut,Patagonia,16.41,16.19
+2004,Chubut,Patagonia,16.94,16.19
+2005,Chubut,Patagonia,15.93,16.19
+2006,Chubut,Patagonia,16.35,16.19
+2007,Chubut,Patagonia,16.02,16.19
+2008,Chubut,Patagonia,17.16,16.19
+2009,Chubut,Patagonia,16.57,16.19
+2010,Chubut,Patagonia,16.12,16.19
+2011,Chubut,Patagonia,16.89,16.19
+2012,Chubut,Patagonia,16.53,16.19
+2013,Chubut,Patagonia,16.93,16.19
+2014,Chubut,Patagonia,16.21,16.19
+2015,Chubut,Patagonia,16.85,16.19
+2016,Chubut,Patagonia,16.75,16.19
+2017,Chubut,Patagonia,16.62,16.19
+2018,Chubut,Patagonia,16.66,16.19
+2019,Chubut,Patagonia,16.69,16.19
+2020,Chubut,Patagonia,17.02,16.19
+1901,San Juan,Cuyo,17.55,16.77
+1902,San Juan,Cuyo,17.33,16.77
+1903,San Juan,Cuyo,16.8,16.77
+1904,San Juan,Cuyo,17.1,16.77
+1905,San Juan,Cuyo,16.51,16.77
+1906,San Juan,Cuyo,16.76,16.77
+1907,San Juan,Cuyo,16.01,16.77
+1908,San Juan,Cuyo,16.45,16.77
+1909,San Juan,Cuyo,16.7,16.77
+1910,San Juan,Cuyo,16.51,16.77
+1911,San Juan,Cuyo,16.17,16.77
+1912,San Juan,Cuyo,16.57,16.77
+1913,San Juan,Cuyo,17.75,16.77
+1914,San Juan,Cuyo,17.74,16.77
+1915,San Juan,Cuyo,17.85,16.77
+1916,San Juan,Cuyo,17.23,16.77
+1917,San Juan,Cuyo,16.29,16.77
+1918,San Juan,Cuyo,16.06,16.77
+1919,San Juan,Cuyo,16.49,16.77
+1920,San Juan,Cuyo,16.62,16.77
+1921,San Juan,Cuyo,15.59,16.77
+1922,San Juan,Cuyo,15.45,16.77
+1923,San Juan,Cuyo,15.96,16.77
+1924,San Juan,Cuyo,15.81,16.77
+1925,San Juan,Cuyo,16.4,16.77
+1926,San Juan,Cuyo,16.74,16.77
+1927,San Juan,Cuyo,16.56,16.77
+1928,San Juan,Cuyo,15.63,16.77
+1929,San Juan,Cuyo,17.34,16.77
+1930,San Juan,Cuyo,16.68,16.77
+1931,San Juan,Cuyo,15.59,16.77
+1932,San Juan,Cuyo,16.54,16.77
+1933,San Juan,Cuyo,16.42,16.77
+1934,San Juan,Cuyo,16,16.77
+1935,San Juan,Cuyo,16.53,16.77
+1936,San Juan,Cuyo,16.34,16.77
+1937,San Juan,Cuyo,16.56,16.77
+1938,San Juan,Cuyo,16.12,16.77
+1939,San Juan,Cuyo,16.66,16.77
+1940,San Juan,Cuyo,16.39,16.77
+1941,San Juan,Cuyo,16.39,16.77
+1942,San Juan,Cuyo,15.81,16.77
+1943,San Juan,Cuyo,16.34,16.77
+1944,San Juan,Cuyo,17.09,16.77
+1945,San Juan,Cuyo,17.74,16.77
+1946,San Juan,Cuyo,16.54,16.77
+1947,San Juan,Cuyo,16.66,16.77
+1948,San Juan,Cuyo,16.76,16.77
+1949,San Juan,Cuyo,16.68,16.77
+1950,San Juan,Cuyo,16.87,16.77
+1951,San Juan,Cuyo,16.76,16.77
+1952,San Juan,Cuyo,16.49,16.77
+1953,San Juan,Cuyo,16.86,16.77
+1954,San Juan,Cuyo,16.14,16.77
+1955,San Juan,Cuyo,15.62,16.77
+1956,San Juan,Cuyo,15.48,16.77
+1957,San Juan,Cuyo,16.61,16.77
+1958,San Juan,Cuyo,16.7,16.77
+1959,San Juan,Cuyo,16.67,16.77
+1960,San Juan,Cuyo,17.57,16.77
+1961,San Juan,Cuyo,17.51,16.77
+1962,San Juan,Cuyo,16.88,16.77
+1963,San Juan,Cuyo,16.25,16.77
+1964,San Juan,Cuyo,16.3,16.77
+1965,San Juan,Cuyo,17.02,16.77
+1966,San Juan,Cuyo,16.56,16.77
+1967,San Juan,Cuyo,17.02,16.77
+1968,San Juan,Cuyo,17.18,16.77
+1969,San Juan,Cuyo,17.86,16.77
+1970,San Juan,Cuyo,17.48,16.77
+1971,San Juan,Cuyo,17.21,16.77
+1972,San Juan,Cuyo,16.7,16.77
+1973,San Juan,Cuyo,16.44,16.77
+1974,San Juan,Cuyo,16.26,16.77
+1975,San Juan,Cuyo,16.58,16.77
+1976,San Juan,Cuyo,16.26,16.77
+1977,San Juan,Cuyo,17.15,16.77
+1978,San Juan,Cuyo,16.97,16.77
+1979,San Juan,Cuyo,16.24,16.77
+1980,San Juan,Cuyo,17.11,16.77
+1981,San Juan,Cuyo,16.94,16.77
+1982,San Juan,Cuyo,17.12,16.77
+1983,San Juan,Cuyo,16.46,16.77
+1984,San Juan,Cuyo,15.72,16.77
+1985,San Juan,Cuyo,16.89,16.77
+1986,San Juan,Cuyo,17.3,16.77
+1987,San Juan,Cuyo,16.99,16.77
+1988,San Juan,Cuyo,16.96,16.77
+1989,San Juan,Cuyo,17.62,16.77
+1990,San Juan,Cuyo,16.87,16.77
+1991,San Juan,Cuyo,17.05,16.77
+1992,San Juan,Cuyo,16.37,16.77
+1993,San Juan,Cuyo,16.93,16.77
+1994,San Juan,Cuyo,17.59,16.77
+1995,San Juan,Cuyo,17.55,16.77
+1996,San Juan,Cuyo,16.9,16.77
+1997,San Juan,Cuyo,17.44,16.77
+1998,San Juan,Cuyo,16.69,16.77
+1999,San Juan,Cuyo,16.16,16.77
+2000,San Juan,Cuyo,16.05,16.77
+2001,San Juan,Cuyo,16.55,16.77
+2002,San Juan,Cuyo,16.75,16.77
+2003,San Juan,Cuyo,17.52,16.77
+2004,San Juan,Cuyo,17.01,16.77
+2005,San Juan,Cuyo,16.87,16.77
+2006,San Juan,Cuyo,17.75,16.77
+2007,San Juan,Cuyo,16.25,16.77
+2008,San Juan,Cuyo,17.16,16.77
+2009,San Juan,Cuyo,17.87,16.77
+2010,San Juan,Cuyo,16.94,16.77
+2011,San Juan,Cuyo,17.05,16.77
+2012,San Juan,Cuyo,17.66,16.77
+2013,San Juan,Cuyo,17.7,16.77
+2014,San Juan,Cuyo,17.11,16.77
+2015,San Juan,Cuyo,17.15,16.77
+2016,San Juan,Cuyo,16.85,16.77
+2017,San Juan,Cuyo,17.53,16.77
+2018,San Juan,Cuyo,17.17,16.77
+2019,San Juan,Cuyo,17.1,16.77
+2020,San Juan,Cuyo,17.84,16.77
+1901,Catamarca,NOA,18.42,17.54
+1902,Catamarca,NOA,18.08,17.54
+1903,Catamarca,NOA,17.52,17.54
+1904,Catamarca,NOA,17.73,17.54
+1905,Catamarca,NOA,17.32,17.54
+1906,Catamarca,NOA,17.94,17.54
+1907,Catamarca,NOA,17.08,17.54
+1908,Catamarca,NOA,17.41,17.54
+1909,Catamarca,NOA,17.48,17.54
+1910,Catamarca,NOA,17.36,17.54
+1911,Catamarca,NOA,17.06,17.54
+1912,Catamarca,NOA,17.73,17.54
+1913,Catamarca,NOA,18.48,17.54
+1914,Catamarca,NOA,18.18,17.54
+1915,Catamarca,NOA,18.25,17.54
+1916,Catamarca,NOA,17.87,17.54
+1917,Catamarca,NOA,17.18,17.54
+1918,Catamarca,NOA,17.11,17.54
+1919,Catamarca,NOA,17.76,17.54
+1920,Catamarca,NOA,17.76,17.54
+1921,Catamarca,NOA,16.78,17.54
+1922,Catamarca,NOA,16.81,17.54
+1923,Catamarca,NOA,17.16,17.54
+1924,Catamarca,NOA,16.96,17.54
+1925,Catamarca,NOA,17.66,17.54
+1926,Catamarca,NOA,17.97,17.54
+1927,Catamarca,NOA,17.45,17.54
+1928,Catamarca,NOA,16.75,17.54
+1929,Catamarca,NOA,17.96,17.54
+1930,Catamarca,NOA,17.72,17.54
+1931,Catamarca,NOA,16.42,17.54
+1932,Catamarca,NOA,17.5,17.54
+1933,Catamarca,NOA,17.26,17.54
+1934,Catamarca,NOA,16.94,17.54
+1935,Catamarca,NOA,17.51,17.54
+1936,Catamarca,NOA,17.51,17.54
+1937,Catamarca,NOA,17.71,17.54
+1938,Catamarca,NOA,17.08,17.54
+1939,Catamarca,NOA,17.5,17.54
+1940,Catamarca,NOA,17.1,17.54
+1941,Catamarca,NOA,17.21,17.54
+1942,Catamarca,NOA,16.76,17.54
+1943,Catamarca,NOA,17.11,17.54
+1944,Catamarca,NOA,17.97,17.54
+1945,Catamarca,NOA,18.31,17.54
+1946,Catamarca,NOA,17.4,17.54
+1947,Catamarca,NOA,17.21,17.54
+1948,Catamarca,NOA,17.44,17.54
+1949,Catamarca,NOA,17.26,17.54
+1950,Catamarca,NOA,17.59,17.54
+1951,Catamarca,NOA,17.53,17.54
+1952,Catamarca,NOA,17.25,17.54
+1953,Catamarca,NOA,17.53,17.54
+1954,Catamarca,NOA,16.95,17.54
+1955,Catamarca,NOA,16.64,17.54
+1956,Catamarca,NOA,16.35,17.54
+1957,Catamarca,NOA,17.24,17.54
+1958,Catamarca,NOA,17.37,17.54
+1959,Catamarca,NOA,16.91,17.54
+1960,Catamarca,NOA,17.7,17.54
+1961,Catamarca,NOA,17.92,17.54
+1962,Catamarca,NOA,17.73,17.54
+1963,Catamarca,NOA,16.96,17.54
+1964,Catamarca,NOA,17.03,17.54
+1965,Catamarca,NOA,17.86,17.54
+1966,Catamarca,NOA,17.45,17.54
+1967,Catamarca,NOA,18,17.54
+1968,Catamarca,NOA,17.76,17.54
+1969,Catamarca,NOA,18.65,17.54
+1970,Catamarca,NOA,18.34,17.54
+1971,Catamarca,NOA,17.78,17.54
+1972,Catamarca,NOA,17.78,17.54
+1973,Catamarca,NOA,17.18,17.54
+1974,Catamarca,NOA,17.1,17.54
+1975,Catamarca,NOA,17.57,17.54
+1976,Catamarca,NOA,17.14,17.54
+1977,Catamarca,NOA,17.68,17.54
+1978,Catamarca,NOA,17.84,17.54
+1979,Catamarca,NOA,17.04,17.54
+1980,Catamarca,NOA,17.87,17.54
+1981,Catamarca,NOA,17.54,17.54
+1982,Catamarca,NOA,17.52,17.54
+1983,Catamarca,NOA,17.19,17.54
+1984,Catamarca,NOA,16.31,17.54
+1985,Catamarca,NOA,17.24,17.54
+1986,Catamarca,NOA,17.89,17.54
+1987,Catamarca,NOA,17.69,17.54
+1988,Catamarca,NOA,17.41,17.54
+1989,Catamarca,NOA,18.24,17.54
+1990,Catamarca,NOA,17.33,17.54
+1991,Catamarca,NOA,17.53,17.54
+1992,Catamarca,NOA,16.98,17.54
+1993,Catamarca,NOA,17.64,17.54
+1994,Catamarca,NOA,18.58,17.54
+1995,Catamarca,NOA,18.34,17.54
+1996,Catamarca,NOA,17.55,17.54
+1997,Catamarca,NOA,18.43,17.54
+1998,Catamarca,NOA,17.3,17.54
+1999,Catamarca,NOA,16.76,17.54
+2000,Catamarca,NOA,16.7,17.54
+2001,Catamarca,NOA,17.18,17.54
+2002,Catamarca,NOA,17.51,17.54
+2003,Catamarca,NOA,18.24,17.54
+2004,Catamarca,NOA,17.94,17.54
+2005,Catamarca,NOA,17.59,17.54
+2006,Catamarca,NOA,18.48,17.54
+2007,Catamarca,NOA,17.09,17.54
+2008,Catamarca,NOA,17.95,17.54
+2009,Catamarca,NOA,18.57,17.54
+2010,Catamarca,NOA,17.6,17.54
+2011,Catamarca,NOA,17.63,17.54
+2012,Catamarca,NOA,18.43,17.54
+2013,Catamarca,NOA,18.53,17.54
+2014,Catamarca,NOA,17.83,17.54
+2015,Catamarca,NOA,17.72,17.54
+2016,Catamarca,NOA,17.14,17.54
+2017,Catamarca,NOA,18.15,17.54
+2018,Catamarca,NOA,17.6,17.54
+2019,Catamarca,NOA,17.39,17.54
+2020,Catamarca,NOA,18.54,17.54
+1901,Jujuy,NOA,18.6,17.71
+1902,Jujuy,NOA,18.36,17.71
+1903,Jujuy,NOA,17.78,17.71
+1904,Jujuy,NOA,17.68,17.71
+1905,Jujuy,NOA,17.45,17.71
+1906,Jujuy,NOA,18.16,17.71
+1907,Jujuy,NOA,17.32,17.71
+1908,Jujuy,NOA,17.63,17.71
+1909,Jujuy,NOA,17.61,17.71
+1910,Jujuy,NOA,17.37,17.71
+1911,Jujuy,NOA,17.19,17.71
+1912,Jujuy,NOA,18,17.71
+1913,Jujuy,NOA,18.17,17.71
+1914,Jujuy,NOA,17.93,17.71
+1915,Jujuy,NOA,18.02,17.71
+1916,Jujuy,NOA,17.63,17.71
+1917,Jujuy,NOA,17.01,17.71
+1918,Jujuy,NOA,17.23,17.71
+1919,Jujuy,NOA,18.12,17.71
+1920,Jujuy,NOA,17.91,17.71
+1921,Jujuy,NOA,17.25,17.71
+1922,Jujuy,NOA,17.32,17.71
+1923,Jujuy,NOA,17.55,17.71
+1924,Jujuy,NOA,17.37,17.71
+1925,Jujuy,NOA,17.85,17.71
+1926,Jujuy,NOA,18.28,17.71
+1927,Jujuy,NOA,17.41,17.71
+1928,Jujuy,NOA,17.17,17.71
+1929,Jujuy,NOA,17.68,17.71
+1930,Jujuy,NOA,18.03,17.71
+1931,Jujuy,NOA,17.24,17.71
+1932,Jujuy,NOA,17.87,17.71
+1933,Jujuy,NOA,17.58,17.71
+1934,Jujuy,NOA,17.45,17.71
+1935,Jujuy,NOA,17.92,17.71
+1936,Jujuy,NOA,18.22,17.71
+1937,Jujuy,NOA,18.05,17.71
+1938,Jujuy,NOA,17.67,17.71
+1939,Jujuy,NOA,17.99,17.71
+1940,Jujuy,NOA,18.07,17.71
+1941,Jujuy,NOA,17.97,17.71
+1942,Jujuy,NOA,17.39,17.71
+1943,Jujuy,NOA,17.11,17.71
+1944,Jujuy,NOA,17.72,17.71
+1945,Jujuy,NOA,17.87,17.71
+1946,Jujuy,NOA,17.63,17.71
+1947,Jujuy,NOA,17.15,17.71
+1948,Jujuy,NOA,17.8,17.71
+1949,Jujuy,NOA,17.08,17.71
+1950,Jujuy,NOA,17.26,17.71
+1951,Jujuy,NOA,17.26,17.71
+1952,Jujuy,NOA,16.89,17.71
+1953,Jujuy,NOA,17.79,17.71
+1954,Jujuy,NOA,17.28,17.71
+1955,Jujuy,NOA,17.03,17.71
+1956,Jujuy,NOA,16.4,17.71
+1957,Jujuy,NOA,17.19,17.71
+1958,Jujuy,NOA,17.52,17.71
+1959,Jujuy,NOA,17.04,17.71
+1960,Jujuy,NOA,17.14,17.71
+1961,Jujuy,NOA,18.26,17.71
+1962,Jujuy,NOA,17.44,17.71
+1963,Jujuy,NOA,17.5,17.71
+1964,Jujuy,NOA,17.27,17.71
+1965,Jujuy,NOA,17.97,17.71
+1966,Jujuy,NOA,18.02,17.71
+1967,Jujuy,NOA,18.07,17.71
+1968,Jujuy,NOA,17.57,17.71
+1969,Jujuy,NOA,18.63,17.71
+1970,Jujuy,NOA,18.29,17.71
+1971,Jujuy,NOA,17.45,17.71
+1972,Jujuy,NOA,17.9,17.71
+1973,Jujuy,NOA,17.22,17.71
+1974,Jujuy,NOA,16.91,17.71
+1975,Jujuy,NOA,17.61,17.71
+1976,Jujuy,NOA,17.2,17.71
+1977,Jujuy,NOA,17.7,17.71
+1978,Jujuy,NOA,17.92,17.71
+1979,Jujuy,NOA,17.67,17.71
+1980,Jujuy,NOA,18.16,17.71
+1981,Jujuy,NOA,17.43,17.71
+1982,Jujuy,NOA,17.6,17.71
+1983,Jujuy,NOA,17.81,17.71
+1984,Jujuy,NOA,16.77,17.71
+1985,Jujuy,NOA,17.62,17.71
+1986,Jujuy,NOA,18.2,17.71
+1987,Jujuy,NOA,18.18,17.71
+1988,Jujuy,NOA,17.74,17.71
+1989,Jujuy,NOA,18.15,17.71
+1990,Jujuy,NOA,17.87,17.71
+1991,Jujuy,NOA,18.2,17.71
+1992,Jujuy,NOA,17.73,17.71
+1993,Jujuy,NOA,18.31,17.71
+1994,Jujuy,NOA,18.67,17.71
+1995,Jujuy,NOA,18.04,17.71
+1996,Jujuy,NOA,17.53,17.71
+1997,Jujuy,NOA,18.39,17.71
+1998,Jujuy,NOA,17.65,17.71
+1999,Jujuy,NOA,17.03,17.71
+2000,Jujuy,NOA,17.2,17.71
+2001,Jujuy,NOA,17.77,17.71
+2002,Jujuy,NOA,17.85,17.71
+2003,Jujuy,NOA,18.3,17.71
+2004,Jujuy,NOA,17.81,17.71
+2005,Jujuy,NOA,17.87,17.71
+2006,Jujuy,NOA,18.13,17.71
+2007,Jujuy,NOA,17.34,17.71
+2008,Jujuy,NOA,17.76,17.71
+2009,Jujuy,NOA,18.14,17.71
+2010,Jujuy,NOA,17.96,17.71
+2011,Jujuy,NOA,17.55,17.71
+2012,Jujuy,NOA,18.22,17.71
+2013,Jujuy,NOA,18.18,17.71
+2014,Jujuy,NOA,18.06,17.71
+2015,Jujuy,NOA,17.94,17.71
+2016,Jujuy,NOA,17.75,17.71
+2017,Jujuy,NOA,18.23,17.71
+2018,Jujuy,NOA,17.79,17.71
+2019,Jujuy,NOA,17.73,17.71
+2020,Jujuy,NOA,18.84,17.71
+1901,Neuquen,Patagonia,18.25,17.97
+1902,Neuquen,Patagonia,17.72,17.97
+1903,Neuquen,Patagonia,17.64,17.97
+1904,Neuquen,Patagonia,18.01,17.97
+1905,Neuquen,Patagonia,17.67,17.97
+1906,Neuquen,Patagonia,17.88,17.97
+1907,Neuquen,Patagonia,17.31,17.97
+1908,Neuquen,Patagonia,17.76,17.97
+1909,Neuquen,Patagonia,17.65,17.97
+1910,Neuquen,Patagonia,17.68,17.97
+1911,Neuquen,Patagonia,17.43,17.97
+1912,Neuquen,Patagonia,18.13,17.97
+1913,Neuquen,Patagonia,18.63,17.97
+1914,Neuquen,Patagonia,17.61,17.97
+1915,Neuquen,Patagonia,17.76,17.97
+1916,Neuquen,Patagonia,17.83,17.97
+1917,Neuquen,Patagonia,18.39,17.97
+1918,Neuquen,Patagonia,17.86,17.97
+1919,Neuquen,Patagonia,18.09,17.97
+1920,Neuquen,Patagonia,18.01,17.97
+1921,Neuquen,Patagonia,17.54,17.97
+1922,Neuquen,Patagonia,17.77,17.97
+1923,Neuquen,Patagonia,17.41,17.97
+1924,Neuquen,Patagonia,17.67,17.97
+1925,Neuquen,Patagonia,17.64,17.97
+1926,Neuquen,Patagonia,17.87,17.97
+1927,Neuquen,Patagonia,17.97,17.97
+1928,Neuquen,Patagonia,17.43,17.97
+1929,Neuquen,Patagonia,17.9,17.97
+1930,Neuquen,Patagonia,17.97,17.97
+1931,Neuquen,Patagonia,17.47,17.97
+1932,Neuquen,Patagonia,17.99,17.97
+1933,Neuquen,Patagonia,17.48,17.97
+1934,Neuquen,Patagonia,17.38,17.97
+1935,Neuquen,Patagonia,17.85,17.97
+1936,Neuquen,Patagonia,17.63,17.97
+1937,Neuquen,Patagonia,17.67,17.97
+1938,Neuquen,Patagonia,17.32,17.97
+1939,Neuquen,Patagonia,17.7,17.97
+1940,Neuquen,Patagonia,17.7,17.97
+1941,Neuquen,Patagonia,17.67,17.97
+1942,Neuquen,Patagonia,17.92,17.97
+1943,Neuquen,Patagonia,18.41,17.97
+1944,Neuquen,Patagonia,18.56,17.97
+1945,Neuquen,Patagonia,18.58,17.97
+1946,Neuquen,Patagonia,17.82,17.97
+1947,Neuquen,Patagonia,18.21,17.97
+1948,Neuquen,Patagonia,17.8,17.97
+1949,Neuquen,Patagonia,18.16,17.97
+1950,Neuquen,Patagonia,17.83,17.97
+1951,Neuquen,Patagonia,18.4,17.97
+1952,Neuquen,Patagonia,18.72,17.97
+1953,Neuquen,Patagonia,18.51,17.97
+1954,Neuquen,Patagonia,18.22,17.97
+1955,Neuquen,Patagonia,18.07,17.97
+1956,Neuquen,Patagonia,17.97,17.97
+1957,Neuquen,Patagonia,18.11,17.97
+1958,Neuquen,Patagonia,18.05,17.97
+1959,Neuquen,Patagonia,17.67,17.97
+1960,Neuquen,Patagonia,18.16,17.97
+1961,Neuquen,Patagonia,17.94,17.97
+1962,Neuquen,Patagonia,18.58,17.97
+1963,Neuquen,Patagonia,17.28,17.97
+1964,Neuquen,Patagonia,17.49,17.97
+1965,Neuquen,Patagonia,17.62,17.97
+1966,Neuquen,Patagonia,17.42,17.97
+1967,Neuquen,Patagonia,17.92,17.97
+1968,Neuquen,Patagonia,18.44,17.97
+1969,Neuquen,Patagonia,18,17.97
+1970,Neuquen,Patagonia,18.08,17.97
+1971,Neuquen,Patagonia,17.53,17.97
+1972,Neuquen,Patagonia,17.4,17.97
+1973,Neuquen,Patagonia,17.55,17.97
+1974,Neuquen,Patagonia,17.62,17.97
+1975,Neuquen,Patagonia,17.68,17.97
+1976,Neuquen,Patagonia,17.37,17.97
+1977,Neuquen,Patagonia,18.28,17.97
+1978,Neuquen,Patagonia,18.12,17.97
+1979,Neuquen,Patagonia,18.14,17.97
+1980,Neuquen,Patagonia,18.09,17.97
+1981,Neuquen,Patagonia,18.17,17.97
+1982,Neuquen,Patagonia,17.86,17.97
+1983,Neuquen,Patagonia,17.9,17.97
+1984,Neuquen,Patagonia,16.46,17.97
+1985,Neuquen,Patagonia,18.18,17.97
+1986,Neuquen,Patagonia,17.79,17.97
+1987,Neuquen,Patagonia,18.3,17.97
+1988,Neuquen,Patagonia,17.92,17.97
+1989,Neuquen,Patagonia,18.75,17.97
+1990,Neuquen,Patagonia,18.32,17.97
+1991,Neuquen,Patagonia,17.91,17.97
+1992,Neuquen,Patagonia,17.66,17.97
+1993,Neuquen,Patagonia,18.1,17.97
+1994,Neuquen,Patagonia,18.43,17.97
+1995,Neuquen,Patagonia,18.18,17.97
+1996,Neuquen,Patagonia,18,17.97
+1997,Neuquen,Patagonia,18.32,17.97
+1998,Neuquen,Patagonia,18.34,17.97
+1999,Neuquen,Patagonia,18.27,17.97
+2000,Neuquen,Patagonia,17.43,17.97
+2001,Neuquen,Patagonia,18.06,17.97
+2002,Neuquen,Patagonia,17.7,17.97
+2003,Neuquen,Patagonia,18.37,17.97
+2004,Neuquen,Patagonia,18.32,17.97
+2005,Neuquen,Patagonia,17.81,17.97
+2006,Neuquen,Patagonia,18.27,17.97
+2007,Neuquen,Patagonia,17.3,17.97
+2008,Neuquen,Patagonia,18.97,17.97
+2009,Neuquen,Patagonia,18.42,17.97
+2010,Neuquen,Patagonia,17.83,17.97
+2011,Neuquen,Patagonia,18.32,17.97
+2012,Neuquen,Patagonia,18.13,17.97
+2013,Neuquen,Patagonia,18.67,17.97
+2014,Neuquen,Patagonia,18.13,17.97
+2015,Neuquen,Patagonia,18.58,17.97
+2016,Neuquen,Patagonia,18.48,17.97
+2017,Neuquen,Patagonia,18.38,17.97
+2018,Neuquen,Patagonia,18.29,17.97
+2019,Neuquen,Patagonia,18.62,17.97
+2020,Neuquen,Patagonia,18.87,17.97
+1901,Rio Negro,Patagonia,19.85,19.52
+1902,Rio Negro,Patagonia,19.32,19.52
+1903,Rio Negro,Patagonia,19.28,19.52
+1904,Rio Negro,Patagonia,19.66,19.52
+1905,Rio Negro,Patagonia,19.27,19.52
+1906,Rio Negro,Patagonia,19.63,19.52
+1907,Rio Negro,Patagonia,18.99,19.52
+1908,Rio Negro,Patagonia,19.51,19.52
+1909,Rio Negro,Patagonia,19.46,19.52
+1910,Rio Negro,Patagonia,19.38,19.52
+1911,Rio Negro,Patagonia,19,19.52
+1912,Rio Negro,Patagonia,19.74,19.52
+1913,Rio Negro,Patagonia,20.25,19.52
+1914,Rio Negro,Patagonia,19.27,19.52
+1915,Rio Negro,Patagonia,19.32,19.52
+1916,Rio Negro,Patagonia,19.58,19.52
+1917,Rio Negro,Patagonia,20.16,19.52
+1918,Rio Negro,Patagonia,19.55,19.52
+1919,Rio Negro,Patagonia,19.72,19.52
+1920,Rio Negro,Patagonia,19.71,19.52
+1921,Rio Negro,Patagonia,19.26,19.52
+1922,Rio Negro,Patagonia,19.56,19.52
+1923,Rio Negro,Patagonia,19.03,19.52
+1924,Rio Negro,Patagonia,19.22,19.52
+1925,Rio Negro,Patagonia,19.16,19.52
+1926,Rio Negro,Patagonia,19.42,19.52
+1927,Rio Negro,Patagonia,19.6,19.52
+1928,Rio Negro,Patagonia,19.14,19.52
+1929,Rio Negro,Patagonia,19.64,19.52
+1930,Rio Negro,Patagonia,19.61,19.52
+1931,Rio Negro,Patagonia,19.11,19.52
+1932,Rio Negro,Patagonia,19.63,19.52
+1933,Rio Negro,Patagonia,19.06,19.52
+1934,Rio Negro,Patagonia,19.01,19.52
+1935,Rio Negro,Patagonia,19.51,19.52
+1936,Rio Negro,Patagonia,19.29,19.52
+1937,Rio Negro,Patagonia,19.23,19.52
+1938,Rio Negro,Patagonia,19.05,19.52
+1939,Rio Negro,Patagonia,19.11,19.52
+1940,Rio Negro,Patagonia,19.31,19.52
+1941,Rio Negro,Patagonia,19.18,19.52
+1942,Rio Negro,Patagonia,19.44,19.52
+1943,Rio Negro,Patagonia,20,19.52
+1944,Rio Negro,Patagonia,20.07,19.52
+1945,Rio Negro,Patagonia,20.04,19.52
+1946,Rio Negro,Patagonia,19.17,19.52
+1947,Rio Negro,Patagonia,19.72,19.52
+1948,Rio Negro,Patagonia,19.28,19.52
+1949,Rio Negro,Patagonia,19.73,19.52
+1950,Rio Negro,Patagonia,19.3,19.52
+1951,Rio Negro,Patagonia,19.53,19.52
+1952,Rio Negro,Patagonia,19.98,19.52
+1953,Rio Negro,Patagonia,19.81,19.52
+1954,Rio Negro,Patagonia,19.42,19.52
+1955,Rio Negro,Patagonia,19.17,19.52
+1956,Rio Negro,Patagonia,19.14,19.52
+1957,Rio Negro,Patagonia,19.3,19.52
+1958,Rio Negro,Patagonia,19.54,19.52
+1959,Rio Negro,Patagonia,18.99,19.52
+1960,Rio Negro,Patagonia,19.55,19.52
+1961,Rio Negro,Patagonia,19.38,19.52
+1962,Rio Negro,Patagonia,20.29,19.52
+1963,Rio Negro,Patagonia,18.72,19.52
+1964,Rio Negro,Patagonia,18.82,19.52
+1965,Rio Negro,Patagonia,19.21,19.52
+1966,Rio Negro,Patagonia,19.02,19.52
+1967,Rio Negro,Patagonia,19.69,19.52
+1968,Rio Negro,Patagonia,20.13,19.52
+1969,Rio Negro,Patagonia,19.56,19.52
+1970,Rio Negro,Patagonia,19.68,19.52
+1971,Rio Negro,Patagonia,19.05,19.52
+1972,Rio Negro,Patagonia,18.88,19.52
+1973,Rio Negro,Patagonia,19.11,19.52
+1974,Rio Negro,Patagonia,19.21,19.52
+1975,Rio Negro,Patagonia,19.53,19.52
+1976,Rio Negro,Patagonia,18.72,19.52
+1977,Rio Negro,Patagonia,19.74,19.52
+1978,Rio Negro,Patagonia,19.66,19.52
+1979,Rio Negro,Patagonia,20,19.52
+1980,Rio Negro,Patagonia,19.71,19.52
+1981,Rio Negro,Patagonia,19.69,19.52
+1982,Rio Negro,Patagonia,19.39,19.52
+1983,Rio Negro,Patagonia,19.65,19.52
+1984,Rio Negro,Patagonia,17.88,19.52
+1985,Rio Negro,Patagonia,19.72,19.52
+1986,Rio Negro,Patagonia,19.32,19.52
+1987,Rio Negro,Patagonia,19.87,19.52
+1988,Rio Negro,Patagonia,19.48,19.52
+1989,Rio Negro,Patagonia,20.52,19.52
+1990,Rio Negro,Patagonia,19.93,19.52
+1991,Rio Negro,Patagonia,19.37,19.52
+1992,Rio Negro,Patagonia,19,19.52
+1993,Rio Negro,Patagonia,19.47,19.52
+1994,Rio Negro,Patagonia,19.98,19.52
+1995,Rio Negro,Patagonia,19.77,19.52
+1996,Rio Negro,Patagonia,19.79,19.52
+1997,Rio Negro,Patagonia,19.58,19.52
+1998,Rio Negro,Patagonia,20.04,19.52
+1999,Rio Negro,Patagonia,19.81,19.52
+2000,Rio Negro,Patagonia,18.76,19.52
+2001,Rio Negro,Patagonia,19.38,19.52
+2002,Rio Negro,Patagonia,19.22,19.52
+2003,Rio Negro,Patagonia,19.96,19.52
+2004,Rio Negro,Patagonia,19.89,19.52
+2005,Rio Negro,Patagonia,19.32,19.52
+2006,Rio Negro,Patagonia,19.82,19.52
+2007,Rio Negro,Patagonia,19.07,19.52
+2008,Rio Negro,Patagonia,20.48,19.52
+2009,Rio Negro,Patagonia,20.03,19.52
+2010,Rio Negro,Patagonia,19.46,19.52
+2011,Rio Negro,Patagonia,20.09,19.52
+2012,Rio Negro,Patagonia,19.76,19.52
+2013,Rio Negro,Patagonia,20.27,19.52
+2014,Rio Negro,Patagonia,19.57,19.52
+2015,Rio Negro,Patagonia,20.12,19.52
+2016,Rio Negro,Patagonia,19.78,19.52
+2017,Rio Negro,Patagonia,19.91,19.52
+2018,Rio Negro,Patagonia,19.92,19.52
+2019,Rio Negro,Patagonia,20.09,19.52
+2020,Rio Negro,Patagonia,20.29,19.52
+1901,Mendoza,Cuyo,20.31,19.9
+1902,Mendoza,Cuyo,19.95,19.9
+1903,Mendoza,Cuyo,19.58,19.9
+1904,Mendoza,Cuyo,19.83,19.9
+1905,Mendoza,Cuyo,19.45,19.9
+1906,Mendoza,Cuyo,19.82,19.9
+1907,Mendoza,Cuyo,19.12,19.9
+1908,Mendoza,Cuyo,19.58,19.9
+1909,Mendoza,Cuyo,19.49,19.9
+1910,Mendoza,Cuyo,19.54,19.9
+1911,Mendoza,Cuyo,19.15,19.9
+1912,Mendoza,Cuyo,19.88,19.9
+1913,Mendoza,Cuyo,20.76,19.9
+1914,Mendoza,Cuyo,19.94,19.9
+1915,Mendoza,Cuyo,20.17,19.9
+1916,Mendoza,Cuyo,19.93,19.9
+1917,Mendoza,Cuyo,19.81,19.9
+1918,Mendoza,Cuyo,19.56,19.9
+1919,Mendoza,Cuyo,19.86,19.9
+1920,Mendoza,Cuyo,19.93,19.9
+1921,Mendoza,Cuyo,19.16,19.9
+1922,Mendoza,Cuyo,19.16,19.9
+1923,Mendoza,Cuyo,19.22,19.9
+1924,Mendoza,Cuyo,19.23,19.9
+1925,Mendoza,Cuyo,19.72,19.9
+1926,Mendoza,Cuyo,20.03,19.9
+1927,Mendoza,Cuyo,19.94,19.9
+1928,Mendoza,Cuyo,19.1,19.9
+1929,Mendoza,Cuyo,20.13,19.9
+1930,Mendoza,Cuyo,19.85,19.9
+1931,Mendoza,Cuyo,19,19.9
+1932,Mendoza,Cuyo,19.89,19.9
+1933,Mendoza,Cuyo,19.58,19.9
+1934,Mendoza,Cuyo,19.02,19.9
+1935,Mendoza,Cuyo,19.55,19.9
+1936,Mendoza,Cuyo,19.37,19.9
+1937,Mendoza,Cuyo,19.7,19.9
+1938,Mendoza,Cuyo,19.3,19.9
+1939,Mendoza,Cuyo,19.78,19.9
+1940,Mendoza,Cuyo,19.46,19.9
+1941,Mendoza,Cuyo,19.45,19.9
+1942,Mendoza,Cuyo,19.27,19.9
+1943,Mendoza,Cuyo,19.66,19.9
+1944,Mendoza,Cuyo,20.4,19.9
+1945,Mendoza,Cuyo,20.74,19.9
+1946,Mendoza,Cuyo,19.9,19.9
+1947,Mendoza,Cuyo,20.14,19.9
+1948,Mendoza,Cuyo,19.95,19.9
+1949,Mendoza,Cuyo,19.91,19.9
+1950,Mendoza,Cuyo,20.11,19.9
+1951,Mendoza,Cuyo,20.11,19.9
+1952,Mendoza,Cuyo,19.92,19.9
+1953,Mendoza,Cuyo,20.06,19.9
+1954,Mendoza,Cuyo,19.56,19.9
+1955,Mendoza,Cuyo,19.32,19.9
+1956,Mendoza,Cuyo,19,19.9
+1957,Mendoza,Cuyo,19.96,19.9
+1958,Mendoza,Cuyo,19.95,19.9
+1959,Mendoza,Cuyo,19.58,19.9
+1960,Mendoza,Cuyo,20.32,19.9
+1961,Mendoza,Cuyo,20.36,19.9
+1962,Mendoza,Cuyo,20.03,19.9
+1963,Mendoza,Cuyo,19.09,19.9
+1964,Mendoza,Cuyo,19.51,19.9
+1965,Mendoza,Cuyo,20.07,19.9
+1966,Mendoza,Cuyo,19.56,19.9
+1967,Mendoza,Cuyo,20.14,19.9
+1968,Mendoza,Cuyo,20.36,19.9
+1969,Mendoza,Cuyo,20.84,19.9
+1970,Mendoza,Cuyo,20.65,19.9
+1971,Mendoza,Cuyo,20.53,19.9
+1972,Mendoza,Cuyo,19.55,19.9
+1973,Mendoza,Cuyo,19.43,19.9
+1974,Mendoza,Cuyo,19.57,19.9
+1975,Mendoza,Cuyo,19.69,19.9
+1976,Mendoza,Cuyo,19.41,19.9
+1977,Mendoza,Cuyo,20.46,19.9
+1978,Mendoza,Cuyo,20.02,19.9
+1979,Mendoza,Cuyo,19.45,19.9
+1980,Mendoza,Cuyo,20.43,19.9
+1981,Mendoza,Cuyo,20.05,19.9
+1982,Mendoza,Cuyo,20.05,19.9
+1983,Mendoza,Cuyo,19.52,19.9
+1984,Mendoza,Cuyo,18.42,19.9
+1985,Mendoza,Cuyo,19.94,19.9
+1986,Mendoza,Cuyo,20.15,19.9
+1987,Mendoza,Cuyo,19.86,19.9
+1988,Mendoza,Cuyo,20.09,19.9
+1989,Mendoza,Cuyo,20.78,19.9
+1990,Mendoza,Cuyo,20.09,19.9
+1991,Mendoza,Cuyo,20.11,19.9
+1992,Mendoza,Cuyo,19.7,19.9
+1993,Mendoza,Cuyo,20.28,19.9
+1994,Mendoza,Cuyo,20.71,19.9
+1995,Mendoza,Cuyo,20.44,19.9
+1996,Mendoza,Cuyo,19.95,19.9
+1997,Mendoza,Cuyo,20.28,19.9
+1998,Mendoza,Cuyo,19.72,19.9
+1999,Mendoza,Cuyo,19.36,19.9
+2000,Mendoza,Cuyo,19.2,19.9
+2001,Mendoza,Cuyo,19.71,19.9
+2002,Mendoza,Cuyo,19.69,19.9
+2003,Mendoza,Cuyo,20.91,19.9
+2004,Mendoza,Cuyo,19.87,19.9
+2005,Mendoza,Cuyo,19.87,19.9
+2006,Mendoza,Cuyo,20.78,19.9
+2007,Mendoza,Cuyo,19.16,19.9
+2008,Mendoza,Cuyo,20.55,19.9
+2009,Mendoza,Cuyo,21.14,19.9
+2010,Mendoza,Cuyo,20.16,19.9
+2011,Mendoza,Cuyo,20.31,19.9
+2012,Mendoza,Cuyo,20.43,19.9
+2013,Mendoza,Cuyo,20.74,19.9
+2014,Mendoza,Cuyo,20.37,19.9
+2015,Mendoza,Cuyo,20.26,19.9
+2016,Mendoza,Cuyo,19.92,19.9
+2017,Mendoza,Cuyo,20.44,19.9
+2018,Mendoza,Cuyo,20.45,19.9
+2019,Mendoza,Cuyo,20.67,19.9
+2020,Mendoza,Cuyo,21.17,19.9
+1901,Buenos Aires,Pampeana,21.54,21.42
+1902,Buenos Aires,Pampeana,21.33,21.42
+1903,Buenos Aires,Pampeana,21.08,21.42
+1904,Buenos Aires,Pampeana,21.03,21.42
+1905,Buenos Aires,Pampeana,20.76,21.42
+1906,Buenos Aires,Pampeana,21.41,21.42
+1907,Buenos Aires,Pampeana,20.71,21.42
+1908,Buenos Aires,Pampeana,21.22,21.42
+1909,Buenos Aires,Pampeana,21.04,21.42
+1910,Buenos Aires,Pampeana,21.1,21.42
+1911,Buenos Aires,Pampeana,20.49,21.42
+1912,Buenos Aires,Pampeana,21.26,21.42
+1913,Buenos Aires,Pampeana,22.24,21.42
+1914,Buenos Aires,Pampeana,21.26,21.42
+1915,Buenos Aires,Pampeana,21.22,21.42
+1916,Buenos Aires,Pampeana,21.35,21.42
+1917,Buenos Aires,Pampeana,21.41,21.42
+1918,Buenos Aires,Pampeana,21.19,21.42
+1919,Buenos Aires,Pampeana,21.38,21.42
+1920,Buenos Aires,Pampeana,21.49,21.42
+1921,Buenos Aires,Pampeana,20.93,21.42
+1922,Buenos Aires,Pampeana,21.05,21.42
+1923,Buenos Aires,Pampeana,20.71,21.42
+1924,Buenos Aires,Pampeana,20.52,21.42
+1925,Buenos Aires,Pampeana,21.26,21.42
+1926,Buenos Aires,Pampeana,21.65,21.42
+1927,Buenos Aires,Pampeana,21.63,21.42
+1928,Buenos Aires,Pampeana,20.93,21.42
+1929,Buenos Aires,Pampeana,21.77,21.42
+1930,Buenos Aires,Pampeana,21.5,21.42
+1931,Buenos Aires,Pampeana,20.83,21.42
+1932,Buenos Aires,Pampeana,21.97,21.42
+1933,Buenos Aires,Pampeana,21.3,21.42
+1934,Buenos Aires,Pampeana,20.96,21.42
+1935,Buenos Aires,Pampeana,21.32,21.42
+1936,Buenos Aires,Pampeana,21.21,21.42
+1937,Buenos Aires,Pampeana,21.04,21.42
+1938,Buenos Aires,Pampeana,21.19,21.42
+1939,Buenos Aires,Pampeana,21.24,21.42
+1940,Buenos Aires,Pampeana,20.82,21.42
+1941,Buenos Aires,Pampeana,20.85,21.42
+1942,Buenos Aires,Pampeana,21.58,21.42
+1943,Buenos Aires,Pampeana,22.2,21.42
+1944,Buenos Aires,Pampeana,21.97,21.42
+1945,Buenos Aires,Pampeana,21.97,21.42
+1946,Buenos Aires,Pampeana,21.1,21.42
+1947,Buenos Aires,Pampeana,21.38,21.42
+1948,Buenos Aires,Pampeana,21.18,21.42
+1949,Buenos Aires,Pampeana,21.31,21.42
+1950,Buenos Aires,Pampeana,21.29,21.42
+1951,Buenos Aires,Pampeana,21.51,21.42
+1952,Buenos Aires,Pampeana,21.54,21.42
+1953,Buenos Aires,Pampeana,21.23,21.42
+1954,Buenos Aires,Pampeana,21.13,21.42
+1955,Buenos Aires,Pampeana,20.66,21.42
+1956,Buenos Aires,Pampeana,20.5,21.42
+1957,Buenos Aires,Pampeana,21.21,21.42
+1958,Buenos Aires,Pampeana,21.58,21.42
+1959,Buenos Aires,Pampeana,20.84,21.42
+1960,Buenos Aires,Pampeana,21.65,21.42
+1961,Buenos Aires,Pampeana,21.66,21.42
+1962,Buenos Aires,Pampeana,21.87,21.42
+1963,Buenos Aires,Pampeana,20.67,21.42
+1964,Buenos Aires,Pampeana,20.83,21.42
+1965,Buenos Aires,Pampeana,21.79,21.42
+1966,Buenos Aires,Pampeana,21.13,21.42
+1967,Buenos Aires,Pampeana,21.87,21.42
+1968,Buenos Aires,Pampeana,22.03,21.42
+1969,Buenos Aires,Pampeana,21.93,21.42
+1970,Buenos Aires,Pampeana,22.29,21.42
+1971,Buenos Aires,Pampeana,21.84,21.42
+1972,Buenos Aires,Pampeana,21.55,21.42
+1973,Buenos Aires,Pampeana,20.99,21.42
+1974,Buenos Aires,Pampeana,21.52,21.42
+1975,Buenos Aires,Pampeana,21.78,21.42
+1976,Buenos Aires,Pampeana,20.82,21.42
+1977,Buenos Aires,Pampeana,21.78,21.42
+1978,Buenos Aires,Pampeana,21.15,21.42
+1979,Buenos Aires,Pampeana,21.83,21.42
+1980,Buenos Aires,Pampeana,22.05,21.42
+1981,Buenos Aires,Pampeana,21.82,21.42
+1982,Buenos Aires,Pampeana,21.7,21.42
+1983,Buenos Aires,Pampeana,21.48,21.42
+1984,Buenos Aires,Pampeana,20.35,21.42
+1985,Buenos Aires,Pampeana,21.6,21.42
+1986,Buenos Aires,Pampeana,21.38,21.42
+1987,Buenos Aires,Pampeana,21.29,21.42
+1988,Buenos Aires,Pampeana,21.33,21.42
+1989,Buenos Aires,Pampeana,22.25,21.42
+1990,Buenos Aires,Pampeana,21.34,21.42
+1991,Buenos Aires,Pampeana,21.36,21.42
+1992,Buenos Aires,Pampeana,21.15,21.42
+1993,Buenos Aires,Pampeana,21.49,21.42
+1994,Buenos Aires,Pampeana,21.87,21.42
+1995,Buenos Aires,Pampeana,21.72,21.42
+1996,Buenos Aires,Pampeana,21.91,21.42
+1997,Buenos Aires,Pampeana,21.61,21.42
+1998,Buenos Aires,Pampeana,21.11,21.42
+1999,Buenos Aires,Pampeana,21.12,21.42
+2000,Buenos Aires,Pampeana,21.06,21.42
+2001,Buenos Aires,Pampeana,21.28,21.42
+2002,Buenos Aires,Pampeana,21.09,21.42
+2003,Buenos Aires,Pampeana,21.68,21.42
+2004,Buenos Aires,Pampeana,21.57,21.42
+2005,Buenos Aires,Pampeana,21.45,21.42
+2006,Buenos Aires,Pampeana,21.97,21.42
+2007,Buenos Aires,Pampeana,20.93,21.42
+2008,Buenos Aires,Pampeana,22.3,21.42
+2009,Buenos Aires,Pampeana,22.52,21.42
+2010,Buenos Aires,Pampeana,21.75,21.42
+2011,Buenos Aires,Pampeana,21.97,21.42
+2012,Buenos Aires,Pampeana,21.87,21.42
+2013,Buenos Aires,Pampeana,22.15,21.42
+2014,Buenos Aires,Pampeana,21.87,21.42
+2015,Buenos Aires,Pampeana,22.08,21.42
+2016,Buenos Aires,Pampeana,21.12,21.42
+2017,Buenos Aires,Pampeana,21.93,21.42
+2018,Buenos Aires,Pampeana,21.97,21.42
+2019,Buenos Aires,Pampeana,21.92,21.42
+2020,Buenos Aires,Pampeana,22.22,21.42
+1901,CABA,Metropolitana,21.74,21.61
+1902,CABA,Metropolitana,21.58,21.61
+1903,CABA,Metropolitana,21.26,21.61
+1904,CABA,Metropolitana,21.07,21.61
+1905,CABA,Metropolitana,20.87,21.61
+1906,CABA,Metropolitana,21.7,21.61
+1907,CABA,Metropolitana,20.87,21.61
+1908,CABA,Metropolitana,21.42,21.61
+1909,CABA,Metropolitana,21.21,21.61
+1910,CABA,Metropolitana,21.27,21.61
+1911,CABA,Metropolitana,20.65,21.61
+1912,CABA,Metropolitana,21.34,21.61
+1913,CABA,Metropolitana,22.48,21.61
+1914,CABA,Metropolitana,21.5,21.61
+1915,CABA,Metropolitana,21.39,21.61
+1916,CABA,Metropolitana,21.58,21.61
+1917,CABA,Metropolitana,21.46,21.61
+1918,CABA,Metropolitana,21.29,21.61
+1919,CABA,Metropolitana,21.57,21.61
+1920,CABA,Metropolitana,21.63,21.61
+1921,CABA,Metropolitana,21.01,21.61
+1922,CABA,Metropolitana,21.11,21.61
+1923,CABA,Metropolitana,20.89,21.61
+1924,CABA,Metropolitana,20.59,21.61
+1925,CABA,Metropolitana,21.41,21.61
+1926,CABA,Metropolitana,21.9,21.61
+1927,CABA,Metropolitana,21.74,21.61
+1928,CABA,Metropolitana,21.03,21.61
+1929,CABA,Metropolitana,21.93,21.61
+1930,CABA,Metropolitana,21.72,21.61
+1931,CABA,Metropolitana,21.04,21.61
+1932,CABA,Metropolitana,22.24,21.61
+1933,CABA,Metropolitana,21.56,21.61
+1934,CABA,Metropolitana,21.08,21.61
+1935,CABA,Metropolitana,21.39,21.61
+1936,CABA,Metropolitana,21.47,21.61
+1937,CABA,Metropolitana,21.22,21.61
+1938,CABA,Metropolitana,21.4,21.61
+1939,CABA,Metropolitana,21.51,21.61
+1940,CABA,Metropolitana,21,21.61
+1941,CABA,Metropolitana,20.95,21.61
+1942,CABA,Metropolitana,21.77,21.61
+1943,CABA,Metropolitana,22.45,21.61
+1944,CABA,Metropolitana,22.1,21.61
+1945,CABA,Metropolitana,22.17,21.61
+1946,CABA,Metropolitana,21.27,21.61
+1947,CABA,Metropolitana,21.37,21.61
+1948,CABA,Metropolitana,21.27,21.61
+1949,CABA,Metropolitana,21.37,21.61
+1950,CABA,Metropolitana,21.35,21.61
+1951,CABA,Metropolitana,21.74,21.61
+1952,CABA,Metropolitana,21.86,21.61
+1953,CABA,Metropolitana,21.62,21.61
+1954,CABA,Metropolitana,21.47,21.61
+1955,CABA,Metropolitana,21.05,21.61
+1956,CABA,Metropolitana,20.88,21.61
+1957,CABA,Metropolitana,21.58,21.61
+1958,CABA,Metropolitana,21.81,21.61
+1959,CABA,Metropolitana,21.19,21.61
+1960,CABA,Metropolitana,21.95,21.61
+1961,CABA,Metropolitana,21.83,21.61
+1962,CABA,Metropolitana,21.69,21.61
+1963,CABA,Metropolitana,20.94,21.61
+1964,CABA,Metropolitana,21.09,21.61
+1965,CABA,Metropolitana,21.98,21.61
+1966,CABA,Metropolitana,21.32,21.61
+1967,CABA,Metropolitana,21.97,21.61
+1968,CABA,Metropolitana,22.06,21.61
+1969,CABA,Metropolitana,22.23,21.61
+1970,CABA,Metropolitana,22.3,21.61
+1971,CABA,Metropolitana,21.84,21.61
+1972,CABA,Metropolitana,21.81,21.61
+1973,CABA,Metropolitana,21.26,21.61
+1974,CABA,Metropolitana,21.83,21.61
+1975,CABA,Metropolitana,22.02,21.61
+1976,CABA,Metropolitana,21.14,21.61
+1977,CABA,Metropolitana,21.78,21.61
+1978,CABA,Metropolitana,21.14,21.61
+1979,CABA,Metropolitana,22.13,21.61
+1980,CABA,Metropolitana,22.12,21.61
+1981,CABA,Metropolitana,21.78,21.61
+1982,CABA,Metropolitana,21.87,21.61
+1983,CABA,Metropolitana,21.37,21.61
+1984,CABA,Metropolitana,20.69,21.61
+1985,CABA,Metropolitana,21.85,21.61
+1986,CABA,Metropolitana,21.75,21.61
+1987,CABA,Metropolitana,21.81,21.61
+1988,CABA,Metropolitana,21.44,21.61
+1989,CABA,Metropolitana,22.52,21.61
+1990,CABA,Metropolitana,21.46,21.61
+1991,CABA,Metropolitana,21.58,21.61
+1992,CABA,Metropolitana,21.36,21.61
+1993,CABA,Metropolitana,21.57,21.61
+1994,CABA,Metropolitana,21.87,21.61
+1995,CABA,Metropolitana,21.75,21.61
+1996,CABA,Metropolitana,22.18,21.61
+1997,CABA,Metropolitana,22.02,21.61
+1998,CABA,Metropolitana,21.28,21.61
+1999,CABA,Metropolitana,21.43,21.61
+2000,CABA,Metropolitana,21.45,21.61
+2001,CABA,Metropolitana,21.77,21.61
+2002,CABA,Metropolitana,21.51,21.61
+2003,CABA,Metropolitana,21.58,21.61
+2004,CABA,Metropolitana,22.01,21.61
+2005,CABA,Metropolitana,21.87,21.61
+2006,CABA,Metropolitana,22.22,21.61
+2007,CABA,Metropolitana,21.14,21.61
+2008,CABA,Metropolitana,22.56,21.61
+2009,CABA,Metropolitana,22.43,21.61
+2010,CABA,Metropolitana,21.9,21.61
+2011,CABA,Metropolitana,22,21.61
+2012,CABA,Metropolitana,22.2,21.61
+2013,CABA,Metropolitana,22.14,21.61
+2014,CABA,Metropolitana,21.99,21.61
+2015,CABA,Metropolitana,22.26,21.61
+2016,CABA,Metropolitana,21.27,21.61
+2017,CABA,Metropolitana,22.3,21.61
+2018,CABA,Metropolitana,22.08,21.61
+2019,CABA,Metropolitana,21.82,21.61
+2020,CABA,Metropolitana,22.44,21.61
+1901,La Rioja,Cuyo,23.45,22.59
+1902,La Rioja,Cuyo,23.16,22.59
+1903,La Rioja,Cuyo,22.62,22.59
+1904,La Rioja,Cuyo,22.83,22.59
+1905,La Rioja,Cuyo,22.32,22.59
+1906,La Rioja,Cuyo,22.65,22.59
+1907,La Rioja,Cuyo,21.85,22.59
+1908,La Rioja,Cuyo,22.27,22.59
+1909,La Rioja,Cuyo,22.43,22.59
+1910,La Rioja,Cuyo,22.3,22.59
+1911,La Rioja,Cuyo,22.01,22.59
+1912,La Rioja,Cuyo,22.6,22.59
+1913,La Rioja,Cuyo,23.64,22.59
+1914,La Rioja,Cuyo,23.31,22.59
+1915,La Rioja,Cuyo,23.38,22.59
+1916,La Rioja,Cuyo,23.01,22.59
+1917,La Rioja,Cuyo,22.27,22.59
+1918,La Rioja,Cuyo,22.05,22.59
+1919,La Rioja,Cuyo,22.53,22.59
+1920,La Rioja,Cuyo,22.63,22.59
+1921,La Rioja,Cuyo,21.59,22.59
+1922,La Rioja,Cuyo,21.51,22.59
+1923,La Rioja,Cuyo,21.97,22.59
+1924,La Rioja,Cuyo,21.79,22.59
+1925,La Rioja,Cuyo,22.49,22.59
+1926,La Rioja,Cuyo,22.78,22.59
+1927,La Rioja,Cuyo,22.52,22.59
+1928,La Rioja,Cuyo,21.49,22.59
+1929,La Rioja,Cuyo,23.15,22.59
+1930,La Rioja,Cuyo,22.59,22.59
+1931,La Rioja,Cuyo,21.35,22.59
+1932,La Rioja,Cuyo,22.52,22.59
+1933,La Rioja,Cuyo,22.42,22.59
+1934,La Rioja,Cuyo,21.85,22.59
+1935,La Rioja,Cuyo,22.52,22.59
+1936,La Rioja,Cuyo,22.37,22.59
+1937,La Rioja,Cuyo,22.64,22.59
+1938,La Rioja,Cuyo,22.14,22.59
+1939,La Rioja,Cuyo,22.48,22.59
+1940,La Rioja,Cuyo,22.03,22.59
+1941,La Rioja,Cuyo,22.1,22.59
+1942,La Rioja,Cuyo,21.63,22.59
+1943,La Rioja,Cuyo,22.06,22.59
+1944,La Rioja,Cuyo,22.88,22.59
+1945,La Rioja,Cuyo,23.39,22.59
+1946,La Rioja,Cuyo,22.28,22.59
+1947,La Rioja,Cuyo,22.23,22.59
+1948,La Rioja,Cuyo,22.46,22.59
+1949,La Rioja,Cuyo,22.34,22.59
+1950,La Rioja,Cuyo,22.63,22.59
+1951,La Rioja,Cuyo,22.62,22.59
+1952,La Rioja,Cuyo,22.29,22.59
+1953,La Rioja,Cuyo,22.66,22.59
+1954,La Rioja,Cuyo,22.02,22.59
+1955,La Rioja,Cuyo,21.51,22.59
+1956,La Rioja,Cuyo,21.33,22.59
+1957,La Rioja,Cuyo,22.34,22.59
+1958,La Rioja,Cuyo,22.5,22.59
+1959,La Rioja,Cuyo,22.2,22.59
+1960,La Rioja,Cuyo,23.15,22.59
+1961,La Rioja,Cuyo,23.01,22.59
+1962,La Rioja,Cuyo,22.88,22.59
+1963,La Rioja,Cuyo,22.06,22.59
+1964,La Rioja,Cuyo,22.12,22.59
+1965,La Rioja,Cuyo,23.04,22.59
+1966,La Rioja,Cuyo,22.54,22.59
+1967,La Rioja,Cuyo,23.16,22.59
+1968,La Rioja,Cuyo,22.99,22.59
+1969,La Rioja,Cuyo,23.82,22.59
+1970,La Rioja,Cuyo,23.49,22.59
+1971,La Rioja,Cuyo,23.07,22.59
+1972,La Rioja,Cuyo,22.68,22.59
+1973,La Rioja,Cuyo,22.27,22.59
+1974,La Rioja,Cuyo,22.26,22.59
+1975,La Rioja,Cuyo,22.61,22.59
+1976,La Rioja,Cuyo,22.26,22.59
+1977,La Rioja,Cuyo,22.93,22.59
+1978,La Rioja,Cuyo,22.77,22.59
+1979,La Rioja,Cuyo,22.03,22.59
+1980,La Rioja,Cuyo,22.97,22.59
+1981,La Rioja,Cuyo,22.67,22.59
+1982,La Rioja,Cuyo,22.76,22.59
+1983,La Rioja,Cuyo,22.31,22.59
+1984,La Rioja,Cuyo,21.46,22.59
+1985,La Rioja,Cuyo,22.45,22.59
+1986,La Rioja,Cuyo,23.02,22.59
+1987,La Rioja,Cuyo,22.7,22.59
+1988,La Rioja,Cuyo,22.7,22.59
+1989,La Rioja,Cuyo,23.46,22.59
+1990,La Rioja,Cuyo,22.51,22.59
+1991,La Rioja,Cuyo,22.76,22.59
+1992,La Rioja,Cuyo,22.05,22.59
+1993,La Rioja,Cuyo,22.68,22.59
+1994,La Rioja,Cuyo,23.57,22.59
+1995,La Rioja,Cuyo,23.62,22.59
+1996,La Rioja,Cuyo,22.72,22.59
+1997,La Rioja,Cuyo,23.35,22.59
+1998,La Rioja,Cuyo,22.35,22.59
+1999,La Rioja,Cuyo,21.86,22.59
+2000,La Rioja,Cuyo,21.73,22.59
+2001,La Rioja,Cuyo,22.23,22.59
+2002,La Rioja,Cuyo,22.49,22.59
+2003,La Rioja,Cuyo,23.25,22.59
+2004,La Rioja,Cuyo,22.96,22.59
+2005,La Rioja,Cuyo,22.67,22.59
+2006,La Rioja,Cuyo,23.68,22.59
+2007,La Rioja,Cuyo,22.15,22.59
+2008,La Rioja,Cuyo,23.08,22.59
+2009,La Rioja,Cuyo,23.82,22.59
+2010,La Rioja,Cuyo,22.76,22.59
+2011,La Rioja,Cuyo,22.89,22.59
+2012,La Rioja,Cuyo,23.57,22.59
+2013,La Rioja,Cuyo,23.58,22.59
+2014,La Rioja,Cuyo,22.84,22.59
+2015,La Rioja,Cuyo,22.81,22.59
+2016,La Rioja,Cuyo,22.29,22.59
+2017,La Rioja,Cuyo,23.26,22.59
+2018,La Rioja,Cuyo,22.83,22.59
+2019,La Rioja,Cuyo,22.55,22.59
+2020,La Rioja,Cuyo,23.6,22.59
+1901,La Pampa,Pampeana,23.41,23.12
+1902,La Pampa,Pampeana,23.03,23.12
+1903,La Pampa,Pampeana,22.79,23.12
+1904,La Pampa,Pampeana,22.98,23.12
+1905,La Pampa,Pampeana,22.66,23.12
+1906,La Pampa,Pampeana,23.13,23.12
+1907,La Pampa,Pampeana,22.51,23.12
+1908,La Pampa,Pampeana,23.01,23.12
+1909,La Pampa,Pampeana,22.85,23.12
+1910,La Pampa,Pampeana,22.91,23.12
+1911,La Pampa,Pampeana,22.4,23.12
+1912,La Pampa,Pampeana,23.24,23.12
+1913,La Pampa,Pampeana,24.05,23.12
+1914,La Pampa,Pampeana,22.93,23.12
+1915,La Pampa,Pampeana,23.06,23.12
+1916,La Pampa,Pampeana,23.13,23.12
+1917,La Pampa,Pampeana,23.37,23.12
+1918,La Pampa,Pampeana,23.07,23.12
+1919,La Pampa,Pampeana,23.24,23.12
+1920,La Pampa,Pampeana,23.29,23.12
+1921,La Pampa,Pampeana,22.73,23.12
+1922,La Pampa,Pampeana,22.86,23.12
+1923,La Pampa,Pampeana,22.56,23.12
+1924,La Pampa,Pampeana,22.51,23.12
+1925,La Pampa,Pampeana,23.03,23.12
+1926,La Pampa,Pampeana,23.37,23.12
+1927,La Pampa,Pampeana,23.37,23.12
+1928,La Pampa,Pampeana,22.66,23.12
+1929,La Pampa,Pampeana,23.43,23.12
+1930,La Pampa,Pampeana,23.23,23.12
+1931,La Pampa,Pampeana,22.42,23.12
+1932,La Pampa,Pampeana,23.37,23.12
+1933,La Pampa,Pampeana,22.81,23.12
+1934,La Pampa,Pampeana,22.42,23.12
+1935,La Pampa,Pampeana,23.03,23.12
+1936,La Pampa,Pampeana,22.67,23.12
+1937,La Pampa,Pampeana,22.82,23.12
+1938,La Pampa,Pampeana,22.78,23.12
+1939,La Pampa,Pampeana,22.84,23.12
+1940,La Pampa,Pampeana,22.71,23.12
+1941,La Pampa,Pampeana,22.65,23.12
+1942,La Pampa,Pampeana,22.93,23.12
+1943,La Pampa,Pampeana,23.45,23.12
+1944,La Pampa,Pampeana,23.62,23.12
+1945,La Pampa,Pampeana,23.69,23.12
+1946,La Pampa,Pampeana,22.83,23.12
+1947,La Pampa,Pampeana,23.31,23.12
+1948,La Pampa,Pampeana,22.97,23.12
+1949,La Pampa,Pampeana,23.22,23.12
+1950,La Pampa,Pampeana,23.24,23.12
+1951,La Pampa,Pampeana,23.25,23.12
+1952,La Pampa,Pampeana,23.34,23.12
+1953,La Pampa,Pampeana,23.08,23.12
+1954,La Pampa,Pampeana,22.83,23.12
+1955,La Pampa,Pampeana,22.37,23.12
+1956,La Pampa,Pampeana,22.26,23.12
+1957,La Pampa,Pampeana,22.79,23.12
+1958,La Pampa,Pampeana,23.17,23.12
+1959,La Pampa,Pampeana,22.46,23.12
+1960,La Pampa,Pampeana,23.23,23.12
+1961,La Pampa,Pampeana,23.55,23.12
+1962,La Pampa,Pampeana,23.94,23.12
+1963,La Pampa,Pampeana,22.18,23.12
+1964,La Pampa,Pampeana,22.65,23.12
+1965,La Pampa,Pampeana,23.44,23.12
+1966,La Pampa,Pampeana,22.76,23.12
+1967,La Pampa,Pampeana,23.61,23.12
+1968,La Pampa,Pampeana,23.72,23.12
+1969,La Pampa,Pampeana,23.55,23.12
+1970,La Pampa,Pampeana,24,23.12
+1971,La Pampa,Pampeana,23.72,23.12
+1972,La Pampa,Pampeana,22.86,23.12
+1973,La Pampa,Pampeana,22.57,23.12
+1974,La Pampa,Pampeana,23.02,23.12
+1975,La Pampa,Pampeana,23.29,23.12
+1976,La Pampa,Pampeana,22.45,23.12
+1977,La Pampa,Pampeana,23.67,23.12
+1978,La Pampa,Pampeana,23.07,23.12
+1979,La Pampa,Pampeana,23.17,23.12
+1980,La Pampa,Pampeana,23.8,23.12
+1981,La Pampa,Pampeana,23.47,23.12
+1982,La Pampa,Pampeana,23.27,23.12
+1983,La Pampa,Pampeana,23.05,23.12
+1984,La Pampa,Pampeana,21.59,23.12
+1985,La Pampa,Pampeana,23.05,23.12
+1986,La Pampa,Pampeana,22.82,23.12
+1987,La Pampa,Pampeana,22.82,23.12
+1988,La Pampa,Pampeana,23,23.12
+1989,La Pampa,Pampeana,23.89,23.12
+1990,La Pampa,Pampeana,23.17,23.12
+1991,La Pampa,Pampeana,23.14,23.12
+1992,La Pampa,Pampeana,22.81,23.12
+1993,La Pampa,Pampeana,23.26,23.12
+1994,La Pampa,Pampeana,23.8,23.12
+1995,La Pampa,Pampeana,23.58,23.12
+1996,La Pampa,Pampeana,23.28,23.12
+1997,La Pampa,Pampeana,23.17,23.12
+1998,La Pampa,Pampeana,22.84,23.12
+1999,La Pampa,Pampeana,22.68,23.12
+2000,La Pampa,Pampeana,22.3,23.12
+2001,La Pampa,Pampeana,22.58,23.12
+2002,La Pampa,Pampeana,22.46,23.12
+2003,La Pampa,Pampeana,23.7,23.12
+2004,La Pampa,Pampeana,22.96,23.12
+2005,La Pampa,Pampeana,22.96,23.12
+2006,La Pampa,Pampeana,23.74,23.12
+2007,La Pampa,Pampeana,22.51,23.12
+2008,La Pampa,Pampeana,23.97,23.12
+2009,La Pampa,Pampeana,24.39,23.12
+2010,La Pampa,Pampeana,23.45,23.12
+2011,La Pampa,Pampeana,23.78,23.12
+2012,La Pampa,Pampeana,23.41,23.12
+2013,La Pampa,Pampeana,23.98,23.12
+2014,La Pampa,Pampeana,23.49,23.12
+2015,La Pampa,Pampeana,23.53,23.12
+2016,La Pampa,Pampeana,22.81,23.12
+2017,La Pampa,Pampeana,23.46,23.12
+2018,La Pampa,Pampeana,23.68,23.12
+2019,La Pampa,Pampeana,23.8,23.12
+2020,La Pampa,Pampeana,24.05,23.12
+1901,Salta,NOA,24.12,23.25
+1902,Salta,NOA,23.87,23.25
+1903,Salta,NOA,23.23,23.25
+1904,Salta,NOA,23.25,23.25
+1905,Salta,NOA,22.99,23.25
+1906,Salta,NOA,23.79,23.25
+1907,Salta,NOA,22.92,23.25
+1908,Salta,NOA,23.23,23.25
+1909,Salta,NOA,23.17,23.25
+1910,Salta,NOA,23.01,23.25
+1911,Salta,NOA,22.71,23.25
+1912,Salta,NOA,23.52,23.25
+1913,Salta,NOA,23.68,23.25
+1914,Salta,NOA,23.39,23.25
+1915,Salta,NOA,23.45,23.25
+1916,Salta,NOA,23.12,23.25
+1917,Salta,NOA,22.55,23.25
+1918,Salta,NOA,22.66,23.25
+1919,Salta,NOA,23.56,23.25
+1920,Salta,NOA,23.37,23.25
+1921,Salta,NOA,22.67,23.25
+1922,Salta,NOA,22.68,23.25
+1923,Salta,NOA,22.97,23.25
+1924,Salta,NOA,22.8,23.25
+1925,Salta,NOA,23.28,23.25
+1926,Salta,NOA,23.74,23.25
+1927,Salta,NOA,22.89,23.25
+1928,Salta,NOA,22.57,23.25
+1929,Salta,NOA,23.15,23.25
+1930,Salta,NOA,23.46,23.25
+1931,Salta,NOA,22.65,23.25
+1932,Salta,NOA,23.43,23.25
+1933,Salta,NOA,23.05,23.25
+1934,Salta,NOA,22.97,23.25
+1935,Salta,NOA,23.49,23.25
+1936,Salta,NOA,23.68,23.25
+1937,Salta,NOA,23.6,23.25
+1938,Salta,NOA,23.1,23.25
+1939,Salta,NOA,23.47,23.25
+1940,Salta,NOA,23.43,23.25
+1941,Salta,NOA,23.44,23.25
+1942,Salta,NOA,22.93,23.25
+1943,Salta,NOA,22.79,23.25
+1944,Salta,NOA,23.63,23.25
+1945,Salta,NOA,23.7,23.25
+1946,Salta,NOA,23.2,23.25
+1947,Salta,NOA,22.78,23.25
+1948,Salta,NOA,23.44,23.25
+1949,Salta,NOA,22.77,23.25
+1950,Salta,NOA,23.04,23.25
+1951,Salta,NOA,23.04,23.25
+1952,Salta,NOA,22.62,23.25
+1953,Salta,NOA,23.37,23.25
+1954,Salta,NOA,22.82,23.25
+1955,Salta,NOA,22.6,23.25
+1956,Salta,NOA,21.82,23.25
+1957,Salta,NOA,22.6,23.25
+1958,Salta,NOA,22.97,23.25
+1959,Salta,NOA,22.5,23.25
+1960,Salta,NOA,22.75,23.25
+1961,Salta,NOA,23.79,23.25
+1962,Salta,NOA,23.11,23.25
+1963,Salta,NOA,23.1,23.25
+1964,Salta,NOA,22.91,23.25
+1965,Salta,NOA,23.49,23.25
+1966,Salta,NOA,23.4,23.25
+1967,Salta,NOA,23.72,23.25
+1968,Salta,NOA,23.33,23.25
+1969,Salta,NOA,24.24,23.25
+1970,Salta,NOA,24.01,23.25
+1971,Salta,NOA,23.19,23.25
+1972,Salta,NOA,23.54,23.25
+1973,Salta,NOA,22.74,23.25
+1974,Salta,NOA,22.61,23.25
+1975,Salta,NOA,23.26,23.25
+1976,Salta,NOA,22.84,23.25
+1977,Salta,NOA,23.22,23.25
+1978,Salta,NOA,23.71,23.25
+1979,Salta,NOA,23.02,23.25
+1980,Salta,NOA,23.54,23.25
+1981,Salta,NOA,22.88,23.25
+1982,Salta,NOA,22.89,23.25
+1983,Salta,NOA,22.91,23.25
+1984,Salta,NOA,22.12,23.25
+1985,Salta,NOA,23.03,23.25
+1986,Salta,NOA,23.61,23.25
+1987,Salta,NOA,23.54,23.25
+1988,Salta,NOA,23.28,23.25
+1989,Salta,NOA,23.76,23.25
+1990,Salta,NOA,23.24,23.25
+1991,Salta,NOA,23.44,23.25
+1992,Salta,NOA,23,23.25
+1993,Salta,NOA,23.69,23.25
+1994,Salta,NOA,24.22,23.25
+1995,Salta,NOA,23.66,23.25
+1996,Salta,NOA,23.09,23.25
+1997,Salta,NOA,23.99,23.25
+1998,Salta,NOA,23,23.25
+1999,Salta,NOA,22.52,23.25
+2000,Salta,NOA,22.67,23.25
+2001,Salta,NOA,23.21,23.25
+2002,Salta,NOA,23.42,23.25
+2003,Salta,NOA,23.96,23.25
+2004,Salta,NOA,23.44,23.25
+2005,Salta,NOA,23.44,23.25
+2006,Salta,NOA,23.86,23.25
+2007,Salta,NOA,22.87,23.25
+2008,Salta,NOA,23.41,23.25
+2009,Salta,NOA,23.93,23.25
+2010,Salta,NOA,23.4,23.25
+2011,Salta,NOA,23.19,23.25
+2012,Salta,NOA,23.98,23.25
+2013,Salta,NOA,24.07,23.25
+2014,Salta,NOA,23.65,23.25
+2015,Salta,NOA,23.43,23.25
+2016,Salta,NOA,23.04,23.25
+2017,Salta,NOA,23.81,23.25
+2018,Salta,NOA,23.28,23.25
+2019,Salta,NOA,23.24,23.25
+2020,Salta,NOA,24.6,23.25
+1901,Tucuman,NOA,24.39,23.62
+1902,Tucuman,NOA,24.03,23.62
+1903,Tucuman,NOA,23.41,23.62
+1904,Tucuman,NOA,23.66,23.62
+1905,Tucuman,NOA,23.36,23.62
+1906,Tucuman,NOA,24.12,23.62
+1907,Tucuman,NOA,23.24,23.62
+1908,Tucuman,NOA,23.55,23.62
+1909,Tucuman,NOA,23.49,23.62
+1910,Tucuman,NOA,23.4,23.62
+1911,Tucuman,NOA,23.14,23.62
+1912,Tucuman,NOA,23.97,23.62
+1913,Tucuman,NOA,24.48,23.62
+1914,Tucuman,NOA,23.95,23.62
+1915,Tucuman,NOA,23.99,23.62
+1916,Tucuman,NOA,23.75,23.62
+1917,Tucuman,NOA,23.14,23.62
+1918,Tucuman,NOA,23.17,23.62
+1919,Tucuman,NOA,23.94,23.62
+1920,Tucuman,NOA,23.86,23.62
+1921,Tucuman,NOA,22.98,23.62
+1922,Tucuman,NOA,22.97,23.62
+1923,Tucuman,NOA,23.32,23.62
+1924,Tucuman,NOA,23.21,23.62
+1925,Tucuman,NOA,23.74,23.62
+1926,Tucuman,NOA,24.2,23.62
+1927,Tucuman,NOA,23.49,23.62
+1928,Tucuman,NOA,22.88,23.62
+1929,Tucuman,NOA,23.86,23.62
+1930,Tucuman,NOA,23.84,23.62
+1931,Tucuman,NOA,22.59,23.62
+1932,Tucuman,NOA,23.68,23.62
+1933,Tucuman,NOA,23.36,23.62
+1934,Tucuman,NOA,23.15,23.62
+1935,Tucuman,NOA,23.7,23.62
+1936,Tucuman,NOA,23.71,23.62
+1937,Tucuman,NOA,23.88,23.62
+1938,Tucuman,NOA,23.24,23.62
+1939,Tucuman,NOA,23.74,23.62
+1940,Tucuman,NOA,23.28,23.62
+1941,Tucuman,NOA,23.53,23.62
+1942,Tucuman,NOA,23.11,23.62
+1943,Tucuman,NOA,23.26,23.62
+1944,Tucuman,NOA,24.33,23.62
+1945,Tucuman,NOA,24.43,23.62
+1946,Tucuman,NOA,23.47,23.62
+1947,Tucuman,NOA,23.26,23.62
+1948,Tucuman,NOA,23.69,23.62
+1949,Tucuman,NOA,23.21,23.62
+1950,Tucuman,NOA,23.58,23.62
+1951,Tucuman,NOA,23.49,23.62
+1952,Tucuman,NOA,23.21,23.62
+1953,Tucuman,NOA,23.63,23.62
+1954,Tucuman,NOA,23.03,23.62
+1955,Tucuman,NOA,22.8,23.62
+1956,Tucuman,NOA,22.26,23.62
+1957,Tucuman,NOA,23.06,23.62
+1958,Tucuman,NOA,23.36,23.62
+1959,Tucuman,NOA,22.85,23.62
+1960,Tucuman,NOA,23.54,23.62
+1961,Tucuman,NOA,24.02,23.62
+1962,Tucuman,NOA,23.84,23.62
+1963,Tucuman,NOA,23.02,23.62
+1964,Tucuman,NOA,23.25,23.62
+1965,Tucuman,NOA,23.96,23.62
+1966,Tucuman,NOA,23.58,23.62
+1967,Tucuman,NOA,24.13,23.62
+1968,Tucuman,NOA,23.83,23.62
+1969,Tucuman,NOA,24.73,23.62
+1970,Tucuman,NOA,24.5,23.62
+1971,Tucuman,NOA,23.91,23.62
+1972,Tucuman,NOA,23.95,23.62
+1973,Tucuman,NOA,23.18,23.62
+1974,Tucuman,NOA,23.13,23.62
+1975,Tucuman,NOA,23.71,23.62
+1976,Tucuman,NOA,23.18,23.62
+1977,Tucuman,NOA,23.53,23.62
+1978,Tucuman,NOA,23.93,23.62
+1979,Tucuman,NOA,23.11,23.62
+1980,Tucuman,NOA,23.89,23.62
+1981,Tucuman,NOA,23.44,23.62
+1982,Tucuman,NOA,23.39,23.62
+1983,Tucuman,NOA,23.09,23.62
+1984,Tucuman,NOA,22.21,23.62
+1985,Tucuman,NOA,23.19,23.62
+1986,Tucuman,NOA,23.91,23.62
+1987,Tucuman,NOA,23.77,23.62
+1988,Tucuman,NOA,23.56,23.62
+1989,Tucuman,NOA,24.42,23.62
+1990,Tucuman,NOA,23.39,23.62
+1991,Tucuman,NOA,23.47,23.62
+1992,Tucuman,NOA,23.04,23.62
+1993,Tucuman,NOA,23.78,23.62
+1994,Tucuman,NOA,24.74,23.62
+1995,Tucuman,NOA,24.46,23.62
+1996,Tucuman,NOA,23.6,23.62
+1997,Tucuman,NOA,24.53,23.62
+1998,Tucuman,NOA,23.38,23.62
+1999,Tucuman,NOA,22.77,23.62
+2000,Tucuman,NOA,22.76,23.62
+2001,Tucuman,NOA,23.19,23.62
+2002,Tucuman,NOA,23.63,23.62
+2003,Tucuman,NOA,24.37,23.62
+2004,Tucuman,NOA,24.05,23.62
+2005,Tucuman,NOA,23.74,23.62
+2006,Tucuman,NOA,24.58,23.62
+2007,Tucuman,NOA,23.18,23.62
+2008,Tucuman,NOA,24.08,23.62
+2009,Tucuman,NOA,24.71,23.62
+2010,Tucuman,NOA,23.73,23.62
+2011,Tucuman,NOA,23.63,23.62
+2012,Tucuman,NOA,24.51,23.62
+2013,Tucuman,NOA,24.79,23.62
+2014,Tucuman,NOA,23.95,23.62
+2015,Tucuman,NOA,23.66,23.62
+2016,Tucuman,NOA,23.05,23.62
+2017,Tucuman,NOA,24.25,23.62
+2018,Tucuman,NOA,23.63,23.62
+2019,Tucuman,NOA,23.41,23.62
+2020,Tucuman,NOA,24.83,23.62
+1901,Cordoba,Pampeana,24.54,24.15
+1902,Cordoba,Pampeana,24.22,24.15
+1903,Cordoba,Pampeana,23.78,24.15
+1904,Cordoba,Pampeana,23.85,24.15
+1905,Cordoba,Pampeana,23.5,24.15
+1906,Cordoba,Pampeana,24.16,24.15
+1907,Cordoba,Pampeana,23.36,24.15
+1908,Cordoba,Pampeana,23.81,24.15
+1909,Cordoba,Pampeana,23.64,24.15
+1910,Cordoba,Pampeana,23.7,24.15
+1911,Cordoba,Pampeana,23.34,24.15
+1912,Cordoba,Pampeana,24.15,24.15
+1913,Cordoba,Pampeana,25.06,24.15
+1914,Cordoba,Pampeana,24.13,24.15
+1915,Cordoba,Pampeana,24.14,24.15
+1916,Cordoba,Pampeana,24.23,24.15
+1917,Cordoba,Pampeana,24,24.15
+1918,Cordoba,Pampeana,23.76,24.15
+1919,Cordoba,Pampeana,24.21,24.15
+1920,Cordoba,Pampeana,24.3,24.15
+1921,Cordoba,Pampeana,23.41,24.15
+1922,Cordoba,Pampeana,23.39,24.15
+1923,Cordoba,Pampeana,23.53,24.15
+1924,Cordoba,Pampeana,23.37,24.15
+1925,Cordoba,Pampeana,24.18,24.15
+1926,Cordoba,Pampeana,24.48,24.15
+1927,Cordoba,Pampeana,24.22,24.15
+1928,Cordoba,Pampeana,23.27,24.15
+1929,Cordoba,Pampeana,24.43,24.15
+1930,Cordoba,Pampeana,24.22,24.15
+1931,Cordoba,Pampeana,22.98,24.15
+1932,Cordoba,Pampeana,24.33,24.15
+1933,Cordoba,Pampeana,24.04,24.15
+1934,Cordoba,Pampeana,23.33,24.15
+1935,Cordoba,Pampeana,24.16,24.15
+1936,Cordoba,Pampeana,23.85,24.15
+1937,Cordoba,Pampeana,24.3,24.15
+1938,Cordoba,Pampeana,23.97,24.15
+1939,Cordoba,Pampeana,24.12,24.15
+1940,Cordoba,Pampeana,23.51,24.15
+1941,Cordoba,Pampeana,23.77,24.15
+1942,Cordoba,Pampeana,23.93,24.15
+1943,Cordoba,Pampeana,24.31,24.15
+1944,Cordoba,Pampeana,25.01,24.15
+1945,Cordoba,Pampeana,25.27,24.15
+1946,Cordoba,Pampeana,23.94,24.15
+1947,Cordoba,Pampeana,23.94,24.15
+1948,Cordoba,Pampeana,24.09,24.15
+1949,Cordoba,Pampeana,23.96,24.15
+1950,Cordoba,Pampeana,24.22,24.15
+1951,Cordoba,Pampeana,24.51,24.15
+1952,Cordoba,Pampeana,23.94,24.15
+1953,Cordoba,Pampeana,24.21,24.15
+1954,Cordoba,Pampeana,23.83,24.15
+1955,Cordoba,Pampeana,23.32,24.15
+1956,Cordoba,Pampeana,22.93,24.15
+1957,Cordoba,Pampeana,23.8,24.15
+1958,Cordoba,Pampeana,24.24,24.15
+1959,Cordoba,Pampeana,23.27,24.15
+1960,Cordoba,Pampeana,24.38,24.15
+1961,Cordoba,Pampeana,24.3,24.15
+1962,Cordoba,Pampeana,24.45,24.15
+1963,Cordoba,Pampeana,23.76,24.15
+1964,Cordoba,Pampeana,23.94,24.15
+1965,Cordoba,Pampeana,24.9,24.15
+1966,Cordoba,Pampeana,24.24,24.15
+1967,Cordoba,Pampeana,24.67,24.15
+1968,Cordoba,Pampeana,24.84,24.15
+1969,Cordoba,Pampeana,25.43,24.15
+1970,Cordoba,Pampeana,25.38,24.15
+1971,Cordoba,Pampeana,24.97,24.15
+1972,Cordoba,Pampeana,24.24,24.15
+1973,Cordoba,Pampeana,23.48,24.15
+1974,Cordoba,Pampeana,24.19,24.15
+1975,Cordoba,Pampeana,24.33,24.15
+1976,Cordoba,Pampeana,23.77,24.15
+1977,Cordoba,Pampeana,24.65,24.15
+1978,Cordoba,Pampeana,23.85,24.15
+1979,Cordoba,Pampeana,23.84,24.15
+1980,Cordoba,Pampeana,24.91,24.15
+1981,Cordoba,Pampeana,24.14,24.15
+1982,Cordoba,Pampeana,24.45,24.15
+1983,Cordoba,Pampeana,23.8,24.15
+1984,Cordoba,Pampeana,23,24.15
+1985,Cordoba,Pampeana,24.14,24.15
+1986,Cordoba,Pampeana,24.49,24.15
+1987,Cordoba,Pampeana,23.99,24.15
+1988,Cordoba,Pampeana,24.32,24.15
+1989,Cordoba,Pampeana,25.07,24.15
+1990,Cordoba,Pampeana,23.87,24.15
+1991,Cordoba,Pampeana,24.08,24.15
+1992,Cordoba,Pampeana,23.74,24.15
+1993,Cordoba,Pampeana,24.11,24.15
+1994,Cordoba,Pampeana,24.83,24.15
+1995,Cordoba,Pampeana,24.6,24.15
+1996,Cordoba,Pampeana,24.29,24.15
+1997,Cordoba,Pampeana,24.69,24.15
+1998,Cordoba,Pampeana,23.44,24.15
+1999,Cordoba,Pampeana,23.47,24.15
+2000,Cordoba,Pampeana,23.35,24.15
+2001,Cordoba,Pampeana,23.81,24.15
+2002,Cordoba,Pampeana,23.84,24.15
+2003,Cordoba,Pampeana,24.51,24.15
+2004,Cordoba,Pampeana,24.19,24.15
+2005,Cordoba,Pampeana,23.97,24.15
+2006,Cordoba,Pampeana,24.96,24.15
+2007,Cordoba,Pampeana,23.3,24.15
+2008,Cordoba,Pampeana,24.88,24.15
+2009,Cordoba,Pampeana,25.42,24.15
+2010,Cordoba,Pampeana,24.3,24.15
+2011,Cordoba,Pampeana,24.73,24.15
+2012,Cordoba,Pampeana,25.01,24.15
+2013,Cordoba,Pampeana,25.09,24.15
+2014,Cordoba,Pampeana,24.6,24.15
+2015,Cordoba,Pampeana,24.51,24.15
+2016,Cordoba,Pampeana,23.66,24.15
+2017,Cordoba,Pampeana,24.66,24.15
+2018,Cordoba,Pampeana,24.7,24.15
+2019,Cordoba,Pampeana,24.26,24.15
+2020,Cordoba,Pampeana,25.21,24.15
+1901,San Luis,Cuyo,24.61,24.21
+1902,San Luis,Cuyo,24.26,24.21
+1903,San Luis,Cuyo,23.88,24.21
+1904,San Luis,Cuyo,24,24.21
+1905,San Luis,Cuyo,23.65,24.21
+1906,San Luis,Cuyo,24.17,24.21
+1907,San Luis,Cuyo,23.45,24.21
+1908,San Luis,Cuyo,23.93,24.21
+1909,San Luis,Cuyo,23.76,24.21
+1910,San Luis,Cuyo,23.86,24.21
+1911,San Luis,Cuyo,23.44,24.21
+1912,San Luis,Cuyo,24.14,24.21
+1913,San Luis,Cuyo,25.05,24.21
+1914,San Luis,Cuyo,24.17,24.21
+1915,San Luis,Cuyo,24.38,24.21
+1916,San Luis,Cuyo,24.24,24.21
+1917,San Luis,Cuyo,24.06,24.21
+1918,San Luis,Cuyo,23.86,24.21
+1919,San Luis,Cuyo,24.19,24.21
+1920,San Luis,Cuyo,24.31,24.21
+1921,San Luis,Cuyo,23.55,24.21
+1922,San Luis,Cuyo,23.49,24.21
+1923,San Luis,Cuyo,23.53,24.21
+1924,San Luis,Cuyo,23.51,24.21
+1925,San Luis,Cuyo,24.27,24.21
+1926,San Luis,Cuyo,24.53,24.21
+1927,San Luis,Cuyo,24.36,24.21
+1928,San Luis,Cuyo,23.47,24.21
+1929,San Luis,Cuyo,24.54,24.21
+1930,San Luis,Cuyo,24.24,24.21
+1931,San Luis,Cuyo,23.11,24.21
+1932,San Luis,Cuyo,24.28,24.21
+1933,San Luis,Cuyo,23.96,24.21
+1934,San Luis,Cuyo,23.3,24.21
+1935,San Luis,Cuyo,24.01,24.21
+1936,San Luis,Cuyo,23.67,24.21
+1937,San Luis,Cuyo,24.14,24.21
+1938,San Luis,Cuyo,23.85,24.21
+1939,San Luis,Cuyo,24.16,24.21
+1940,San Luis,Cuyo,23.62,24.21
+1941,San Luis,Cuyo,23.76,24.21
+1942,San Luis,Cuyo,23.71,24.21
+1943,San Luis,Cuyo,24.04,24.21
+1944,San Luis,Cuyo,24.86,24.21
+1945,San Luis,Cuyo,25.2,24.21
+1946,San Luis,Cuyo,24.17,24.21
+1947,San Luis,Cuyo,24.3,24.21
+1948,San Luis,Cuyo,24.29,24.21
+1949,San Luis,Cuyo,24.14,24.21
+1950,San Luis,Cuyo,24.53,24.21
+1951,San Luis,Cuyo,24.41,24.21
+1952,San Luis,Cuyo,23.96,24.21
+1953,San Luis,Cuyo,24.2,24.21
+1954,San Luis,Cuyo,23.86,24.21
+1955,San Luis,Cuyo,23.37,24.21
+1956,San Luis,Cuyo,23,24.21
+1957,San Luis,Cuyo,23.97,24.21
+1958,San Luis,Cuyo,24.29,24.21
+1959,San Luis,Cuyo,23.48,24.21
+1960,San Luis,Cuyo,24.48,24.21
+1961,San Luis,Cuyo,24.64,24.21
+1962,San Luis,Cuyo,24.52,24.21
+1963,San Luis,Cuyo,23.64,24.21
+1964,San Luis,Cuyo,23.93,24.21
+1965,San Luis,Cuyo,24.68,24.21
+1966,San Luis,Cuyo,24.11,24.21
+1967,San Luis,Cuyo,24.73,24.21
+1968,San Luis,Cuyo,24.9,24.21
+1969,San Luis,Cuyo,25.37,24.21
+1970,San Luis,Cuyo,25.36,24.21
+1971,San Luis,Cuyo,25.18,24.21
+1972,San Luis,Cuyo,24.1,24.21
+1973,San Luis,Cuyo,23.68,24.21
+1974,San Luis,Cuyo,24.05,24.21
+1975,San Luis,Cuyo,24.28,24.21
+1976,San Luis,Cuyo,23.73,24.21
+1977,San Luis,Cuyo,24.91,24.21
+1978,San Luis,Cuyo,24.17,24.21
+1979,San Luis,Cuyo,23.71,24.21
+1980,San Luis,Cuyo,24.9,24.21
+1981,San Luis,Cuyo,24.32,24.21
+1982,San Luis,Cuyo,24.51,24.21
+1983,San Luis,Cuyo,23.9,24.21
+1984,San Luis,Cuyo,22.81,24.21
+1985,San Luis,Cuyo,24.11,24.21
+1986,San Luis,Cuyo,24.49,24.21
+1987,San Luis,Cuyo,24.01,24.21
+1988,San Luis,Cuyo,24.4,24.21
+1989,San Luis,Cuyo,25.2,24.21
+1990,San Luis,Cuyo,24.22,24.21
+1991,San Luis,Cuyo,24.26,24.21
+1992,San Luis,Cuyo,23.97,24.21
+1993,San Luis,Cuyo,24.46,24.21
+1994,San Luis,Cuyo,25.04,24.21
+1995,San Luis,Cuyo,24.74,24.21
+1996,San Luis,Cuyo,24.33,24.21
+1997,San Luis,Cuyo,24.56,24.21
+1998,San Luis,Cuyo,23.66,24.21
+1999,San Luis,Cuyo,23.4,24.21
+2000,San Luis,Cuyo,23.35,24.21
+2001,San Luis,Cuyo,23.81,24.21
+2002,San Luis,Cuyo,23.79,24.21
+2003,San Luis,Cuyo,25,24.21
+2004,San Luis,Cuyo,23.98,24.21
+2005,San Luis,Cuyo,24.14,24.21
+2006,San Luis,Cuyo,25.1,24.21
+2007,San Luis,Cuyo,23.38,24.21
+2008,San Luis,Cuyo,24.8,24.21
+2009,San Luis,Cuyo,25.64,24.21
+2010,San Luis,Cuyo,24.54,24.21
+2011,San Luis,Cuyo,24.83,24.21
+2012,San Luis,Cuyo,24.86,24.21
+2013,San Luis,Cuyo,25.12,24.21
+2014,San Luis,Cuyo,24.73,24.21
+2015,San Luis,Cuyo,24.5,24.21
+2016,San Luis,Cuyo,23.77,24.21
+2017,San Luis,Cuyo,24.66,24.21
+2018,San Luis,Cuyo,24.77,24.21
+2019,San Luis,Cuyo,24.68,24.21
+2020,San Luis,Cuyo,25.34,24.21
+1901,Entre Rios,Pampeana,24.25,24.23
+1902,Entre Rios,Pampeana,24.1,24.23
+1903,Entre Rios,Pampeana,23.62,24.23
+1904,Entre Rios,Pampeana,23.68,24.23
+1905,Entre Rios,Pampeana,23.39,24.23
+1906,Entre Rios,Pampeana,24.28,24.23
+1907,Entre Rios,Pampeana,23.4,24.23
+1908,Entre Rios,Pampeana,23.86,24.23
+1909,Entre Rios,Pampeana,23.67,24.23
+1910,Entre Rios,Pampeana,23.7,24.23
+1911,Entre Rios,Pampeana,23.28,24.23
+1912,Entre Rios,Pampeana,24,24.23
+1913,Entre Rios,Pampeana,24.84,24.23
+1914,Entre Rios,Pampeana,24.1,24.23
+1915,Entre Rios,Pampeana,23.87,24.23
+1916,Entre Rios,Pampeana,24.03,24.23
+1917,Entre Rios,Pampeana,23.82,24.23
+1918,Entre Rios,Pampeana,23.65,24.23
+1919,Entre Rios,Pampeana,24.17,24.23
+1920,Entre Rios,Pampeana,24.1,24.23
+1921,Entre Rios,Pampeana,23.42,24.23
+1922,Entre Rios,Pampeana,23.43,24.23
+1923,Entre Rios,Pampeana,23.57,24.23
+1924,Entre Rios,Pampeana,23.23,24.23
+1925,Entre Rios,Pampeana,24,24.23
+1926,Entre Rios,Pampeana,24.54,24.23
+1927,Entre Rios,Pampeana,24.15,24.23
+1928,Entre Rios,Pampeana,23.41,24.23
+1929,Entre Rios,Pampeana,24.3,24.23
+1930,Entre Rios,Pampeana,24.25,24.23
+1931,Entre Rios,Pampeana,23.37,24.23
+1932,Entre Rios,Pampeana,24.65,24.23
+1933,Entre Rios,Pampeana,24.31,24.23
+1934,Entre Rios,Pampeana,23.79,24.23
+1935,Entre Rios,Pampeana,24.2,24.23
+1936,Entre Rios,Pampeana,24.06,24.23
+1937,Entre Rios,Pampeana,23.89,24.23
+1938,Entre Rios,Pampeana,23.85,24.23
+1939,Entre Rios,Pampeana,24.27,24.23
+1940,Entre Rios,Pampeana,23.75,24.23
+1941,Entre Rios,Pampeana,23.8,24.23
+1942,Entre Rios,Pampeana,24.41,24.23
+1943,Entre Rios,Pampeana,25.05,24.23
+1944,Entre Rios,Pampeana,25.33,24.23
+1945,Entre Rios,Pampeana,25.23,24.23
+1946,Entre Rios,Pampeana,23.88,24.23
+1947,Entre Rios,Pampeana,23.98,24.23
+1948,Entre Rios,Pampeana,24,24.23
+1949,Entre Rios,Pampeana,24.15,24.23
+1950,Entre Rios,Pampeana,24.16,24.23
+1951,Entre Rios,Pampeana,24.51,24.23
+1952,Entre Rios,Pampeana,24.55,24.23
+1953,Entre Rios,Pampeana,24.6,24.23
+1954,Entre Rios,Pampeana,24.09,24.23
+1955,Entre Rios,Pampeana,23.65,24.23
+1956,Entre Rios,Pampeana,23.34,24.23
+1957,Entre Rios,Pampeana,24.24,24.23
+1958,Entre Rios,Pampeana,24.45,24.23
+1959,Entre Rios,Pampeana,23.87,24.23
+1960,Entre Rios,Pampeana,24.7,24.23
+1961,Entre Rios,Pampeana,24.43,24.23
+1962,Entre Rios,Pampeana,24.55,24.23
+1963,Entre Rios,Pampeana,23.93,24.23
+1964,Entre Rios,Pampeana,24.03,24.23
+1965,Entre Rios,Pampeana,24.63,24.23
+1966,Entre Rios,Pampeana,23.88,24.23
+1967,Entre Rios,Pampeana,24.5,24.23
+1968,Entre Rios,Pampeana,24.53,24.23
+1969,Entre Rios,Pampeana,24.92,24.23
+1970,Entre Rios,Pampeana,24.8,24.23
+1971,Entre Rios,Pampeana,24.34,24.23
+1972,Entre Rios,Pampeana,24.14,24.23
+1973,Entre Rios,Pampeana,23.43,24.23
+1974,Entre Rios,Pampeana,24.28,24.23
+1975,Entre Rios,Pampeana,24.35,24.23
+1976,Entre Rios,Pampeana,23.82,24.23
+1977,Entre Rios,Pampeana,24.4,24.23
+1978,Entre Rios,Pampeana,23.93,24.23
+1979,Entre Rios,Pampeana,24.37,24.23
+1980,Entre Rios,Pampeana,24.99,24.23
+1981,Entre Rios,Pampeana,24.51,24.23
+1982,Entre Rios,Pampeana,24.71,24.23
+1983,Entre Rios,Pampeana,23.83,24.23
+1984,Entre Rios,Pampeana,23.41,24.23
+1985,Entre Rios,Pampeana,24.69,24.23
+1986,Entre Rios,Pampeana,24.61,24.23
+1987,Entre Rios,Pampeana,24.52,24.23
+1988,Entre Rios,Pampeana,24.2,24.23
+1989,Entre Rios,Pampeana,25.08,24.23
+1990,Entre Rios,Pampeana,23.97,24.23
+1991,Entre Rios,Pampeana,24.46,24.23
+1992,Entre Rios,Pampeana,23.88,24.23
+1993,Entre Rios,Pampeana,24.17,24.23
+1994,Entre Rios,Pampeana,24.78,24.23
+1995,Entre Rios,Pampeana,24.42,24.23
+1996,Entre Rios,Pampeana,24.66,24.23
+1997,Entre Rios,Pampeana,24.9,24.23
+1998,Entre Rios,Pampeana,23.55,24.23
+1999,Entre Rios,Pampeana,24.31,24.23
+2000,Entre Rios,Pampeana,23.91,24.23
+2001,Entre Rios,Pampeana,24.54,24.23
+2002,Entre Rios,Pampeana,24.25,24.23
+2003,Entre Rios,Pampeana,24.2,24.23
+2004,Entre Rios,Pampeana,24.68,24.23
+2005,Entre Rios,Pampeana,24.3,24.23
+2006,Entre Rios,Pampeana,25.19,24.23
+2007,Entre Rios,Pampeana,23.63,24.23
+2008,Entre Rios,Pampeana,25.44,24.23
+2009,Entre Rios,Pampeana,24.99,24.23
+2010,Entre Rios,Pampeana,24.38,24.23
+2011,Entre Rios,Pampeana,24.45,24.23
+2012,Entre Rios,Pampeana,25.08,24.23
+2013,Entre Rios,Pampeana,24.8,24.23
+2014,Entre Rios,Pampeana,24.62,24.23
+2015,Entre Rios,Pampeana,24.78,24.23
+2016,Entre Rios,Pampeana,23.89,24.23
+2017,Entre Rios,Pampeana,24.83,24.23
+2018,Entre Rios,Pampeana,24.76,24.23
+2019,Entre Rios,Pampeana,24.29,24.23
+2020,Entre Rios,Pampeana,25.26,24.23
+1901,Santa Fe,Pampeana,25.49,25.27
+1902,Santa Fe,Pampeana,25.3,25.27
+1903,Santa Fe,Pampeana,24.78,25.27
+1904,Santa Fe,Pampeana,24.87,25.27
+1905,Santa Fe,Pampeana,24.57,25.27
+1906,Santa Fe,Pampeana,25.41,25.27
+1907,Santa Fe,Pampeana,24.54,25.27
+1908,Santa Fe,Pampeana,24.95,25.27
+1909,Santa Fe,Pampeana,24.78,25.27
+1910,Santa Fe,Pampeana,24.79,25.27
+1911,Santa Fe,Pampeana,24.46,25.27
+1912,Santa Fe,Pampeana,25.21,25.27
+1913,Santa Fe,Pampeana,25.94,25.27
+1914,Santa Fe,Pampeana,25.23,25.27
+1915,Santa Fe,Pampeana,25,25.27
+1916,Santa Fe,Pampeana,25.12,25.27
+1917,Santa Fe,Pampeana,24.9,25.27
+1918,Santa Fe,Pampeana,24.73,25.27
+1919,Santa Fe,Pampeana,25.32,25.27
+1920,Santa Fe,Pampeana,25.24,25.27
+1921,Santa Fe,Pampeana,24.49,25.27
+1922,Santa Fe,Pampeana,24.48,25.27
+1923,Santa Fe,Pampeana,24.71,25.27
+1924,Santa Fe,Pampeana,24.39,25.27
+1925,Santa Fe,Pampeana,25.15,25.27
+1926,Santa Fe,Pampeana,25.63,25.27
+1927,Santa Fe,Pampeana,25.17,25.27
+1928,Santa Fe,Pampeana,24.34,25.27
+1929,Santa Fe,Pampeana,25.37,25.27
+1930,Santa Fe,Pampeana,25.35,25.27
+1931,Santa Fe,Pampeana,24.36,25.27
+1932,Santa Fe,Pampeana,25.65,25.27
+1933,Santa Fe,Pampeana,25.45,25.27
+1934,Santa Fe,Pampeana,24.82,25.27
+1935,Santa Fe,Pampeana,25.44,25.27
+1936,Santa Fe,Pampeana,25.16,25.27
+1937,Santa Fe,Pampeana,25.35,25.27
+1938,Santa Fe,Pampeana,24.94,25.27
+1939,Santa Fe,Pampeana,25.26,25.27
+1940,Santa Fe,Pampeana,24.78,25.27
+1941,Santa Fe,Pampeana,24.98,25.27
+1942,Santa Fe,Pampeana,25.31,25.27
+1943,Santa Fe,Pampeana,25.82,25.27
+1944,Santa Fe,Pampeana,26.59,25.27
+1945,Santa Fe,Pampeana,26.6,25.27
+1946,Santa Fe,Pampeana,25.01,25.27
+1947,Santa Fe,Pampeana,25.14,25.27
+1948,Santa Fe,Pampeana,25.29,25.27
+1949,Santa Fe,Pampeana,25.21,25.27
+1950,Santa Fe,Pampeana,25.3,25.27
+1951,Santa Fe,Pampeana,25.63,25.27
+1952,Santa Fe,Pampeana,25.32,25.27
+1953,Santa Fe,Pampeana,25.6,25.27
+1954,Santa Fe,Pampeana,25.03,25.27
+1955,Santa Fe,Pampeana,24.58,25.27
+1956,Santa Fe,Pampeana,24.16,25.27
+1957,Santa Fe,Pampeana,25.11,25.27
+1958,Santa Fe,Pampeana,25.49,25.27
+1959,Santa Fe,Pampeana,24.76,25.27
+1960,Santa Fe,Pampeana,25.64,25.27
+1961,Santa Fe,Pampeana,25.51,25.27
+1962,Santa Fe,Pampeana,25.53,25.27
+1963,Santa Fe,Pampeana,25.22,25.27
+1964,Santa Fe,Pampeana,25.31,25.27
+1965,Santa Fe,Pampeana,25.81,25.27
+1966,Santa Fe,Pampeana,25.2,25.27
+1967,Santa Fe,Pampeana,25.69,25.27
+1968,Santa Fe,Pampeana,25.87,25.27
+1969,Santa Fe,Pampeana,26.29,25.27
+1970,Santa Fe,Pampeana,26.22,25.27
+1971,Santa Fe,Pampeana,25.64,25.27
+1972,Santa Fe,Pampeana,25.31,25.27
+1973,Santa Fe,Pampeana,24.52,25.27
+1974,Santa Fe,Pampeana,25.26,25.27
+1975,Santa Fe,Pampeana,25.32,25.27
+1976,Santa Fe,Pampeana,24.9,25.27
+1977,Santa Fe,Pampeana,25.52,25.27
+1978,Santa Fe,Pampeana,25.09,25.27
+1979,Santa Fe,Pampeana,25.09,25.27
+1980,Santa Fe,Pampeana,25.87,25.27
+1981,Santa Fe,Pampeana,25.32,25.27
+1982,Santa Fe,Pampeana,25.59,25.27
+1983,Santa Fe,Pampeana,24.72,25.27
+1984,Santa Fe,Pampeana,24.27,25.27
+1985,Santa Fe,Pampeana,25.56,25.27
+1986,Santa Fe,Pampeana,25.54,25.27
+1987,Santa Fe,Pampeana,25.14,25.27
+1988,Santa Fe,Pampeana,25.38,25.27
+1989,Santa Fe,Pampeana,25.93,25.27
+1990,Santa Fe,Pampeana,24.81,25.27
+1991,Santa Fe,Pampeana,25.37,25.27
+1992,Santa Fe,Pampeana,24.72,25.27
+1993,Santa Fe,Pampeana,25.12,25.27
+1994,Santa Fe,Pampeana,25.79,25.27
+1995,Santa Fe,Pampeana,25.34,25.27
+1996,Santa Fe,Pampeana,25.3,25.27
+1997,Santa Fe,Pampeana,25.86,25.27
+1998,Santa Fe,Pampeana,24.42,25.27
+1999,Santa Fe,Pampeana,25,25.27
+2000,Santa Fe,Pampeana,24.61,25.27
+2001,Santa Fe,Pampeana,25.3,25.27
+2002,Santa Fe,Pampeana,25.13,25.27
+2003,Santa Fe,Pampeana,25.36,25.27
+2004,Santa Fe,Pampeana,25.52,25.27
+2005,Santa Fe,Pampeana,25.14,25.27
+2006,Santa Fe,Pampeana,26.15,25.27
+2007,Santa Fe,Pampeana,24.57,25.27
+2008,Santa Fe,Pampeana,26.33,25.27
+2009,Santa Fe,Pampeana,26.21,25.27
+2010,Santa Fe,Pampeana,25.24,25.27
+2011,Santa Fe,Pampeana,25.47,25.27
+2012,Santa Fe,Pampeana,26.19,25.27
+2013,Santa Fe,Pampeana,25.94,25.27
+2014,Santa Fe,Pampeana,25.71,25.27
+2015,Santa Fe,Pampeana,25.74,25.27
+2016,Santa Fe,Pampeana,24.81,25.27
+2017,Santa Fe,Pampeana,25.79,25.27
+2018,Santa Fe,Pampeana,25.73,25.27
+2019,Santa Fe,Pampeana,25.29,25.27
+2020,Santa Fe,Pampeana,26.33,25.27
+1901,Corrientes,Litoral,26.25,26.37
+1902,Corrientes,Litoral,26.34,26.37
+1903,Corrientes,Litoral,25.75,26.37
+1904,Corrientes,Litoral,25.8,26.37
+1905,Corrientes,Litoral,25.59,26.37
+1906,Corrientes,Litoral,26.46,26.37
+1907,Corrientes,Litoral,25.77,26.37
+1908,Corrientes,Litoral,26.02,26.37
+1909,Corrientes,Litoral,25.75,26.37
+1910,Corrientes,Litoral,25.85,26.37
+1911,Corrientes,Litoral,25.68,26.37
+1912,Corrientes,Litoral,26.16,26.37
+1913,Corrientes,Litoral,26.39,26.37
+1914,Corrientes,Litoral,26.04,26.37
+1915,Corrientes,Litoral,25.71,26.37
+1916,Corrientes,Litoral,25.81,26.37
+1917,Corrientes,Litoral,25.66,26.37
+1918,Corrientes,Litoral,25.56,26.37
+1919,Corrientes,Litoral,26.31,26.37
+1920,Corrientes,Litoral,26.04,26.37
+1921,Corrientes,Litoral,25.55,26.37
+1922,Corrientes,Litoral,25.5,26.37
+1923,Corrientes,Litoral,25.79,26.37
+1924,Corrientes,Litoral,25.31,26.37
+1925,Corrientes,Litoral,26.08,26.37
+1926,Corrientes,Litoral,26.74,26.37
+1927,Corrientes,Litoral,26.19,26.37
+1928,Corrientes,Litoral,25.53,26.37
+1929,Corrientes,Litoral,26.23,26.37
+1930,Corrientes,Litoral,26.37,26.37
+1931,Corrientes,Litoral,25.71,26.37
+1932,Corrientes,Litoral,26.77,26.37
+1933,Corrientes,Litoral,26.83,26.37
+1934,Corrientes,Litoral,26.29,26.37
+1935,Corrientes,Litoral,26.58,26.37
+1936,Corrientes,Litoral,26.5,26.37
+1937,Corrientes,Litoral,26.37,26.37
+1938,Corrientes,Litoral,25.96,26.37
+1939,Corrientes,Litoral,26.44,26.37
+1940,Corrientes,Litoral,26.12,26.37
+1941,Corrientes,Litoral,26.34,26.37
+1942,Corrientes,Litoral,26.77,26.37
+1943,Corrientes,Litoral,27.25,26.37
+1944,Corrientes,Litoral,28.24,26.37
+1945,Corrientes,Litoral,28,26.37
+1946,Corrientes,Litoral,26.29,26.37
+1947,Corrientes,Litoral,26.53,26.37
+1948,Corrientes,Litoral,26.71,26.37
+1949,Corrientes,Litoral,26.76,26.37
+1950,Corrientes,Litoral,26.72,26.37
+1951,Corrientes,Litoral,26.82,26.37
+1952,Corrientes,Litoral,26.79,26.37
+1953,Corrientes,Litoral,27.1,26.37
+1954,Corrientes,Litoral,26.58,26.37
+1955,Corrientes,Litoral,26.12,26.37
+1956,Corrientes,Litoral,25.74,26.37
+1957,Corrientes,Litoral,26.65,26.37
+1958,Corrientes,Litoral,26.83,26.37
+1959,Corrientes,Litoral,26.71,26.37
+1960,Corrientes,Litoral,26.85,26.37
+1961,Corrientes,Litoral,26.86,26.37
+1962,Corrientes,Litoral,26.56,26.37
+1963,Corrientes,Litoral,26.84,26.37
+1964,Corrientes,Litoral,26.37,26.37
+1965,Corrientes,Litoral,26.31,26.37
+1966,Corrientes,Litoral,26.04,26.37
+1967,Corrientes,Litoral,26.7,26.37
+1968,Corrientes,Litoral,26.58,26.37
+1969,Corrientes,Litoral,26.62,26.37
+1970,Corrientes,Litoral,26.87,26.37
+1971,Corrientes,Litoral,26.26,26.37
+1972,Corrientes,Litoral,26.03,26.37
+1973,Corrientes,Litoral,25.56,26.37
+1974,Corrientes,Litoral,26.17,26.37
+1975,Corrientes,Litoral,25.98,26.37
+1976,Corrientes,Litoral,26,26.37
+1977,Corrientes,Litoral,26.84,26.37
+1978,Corrientes,Litoral,26.68,26.37
+1979,Corrientes,Litoral,26.15,26.37
+1980,Corrientes,Litoral,26.81,26.37
+1981,Corrientes,Litoral,26.67,26.37
+1982,Corrientes,Litoral,26.78,26.37
+1983,Corrientes,Litoral,25.72,26.37
+1984,Corrientes,Litoral,25.75,26.37
+1985,Corrientes,Litoral,26.92,26.37
+1986,Corrientes,Litoral,26.77,26.37
+1987,Corrientes,Litoral,26.09,26.37
+1988,Corrientes,Litoral,26.39,26.37
+1989,Corrientes,Litoral,26.49,26.37
+1990,Corrientes,Litoral,25.82,26.37
+1991,Corrientes,Litoral,26.72,26.37
+1992,Corrientes,Litoral,25.64,26.37
+1993,Corrientes,Litoral,26.35,26.37
+1994,Corrientes,Litoral,26.81,26.37
+1995,Corrientes,Litoral,26.58,26.37
+1996,Corrientes,Litoral,26.13,26.37
+1997,Corrientes,Litoral,26.82,26.37
+1998,Corrientes,Litoral,25.41,26.37
+1999,Corrientes,Litoral,26.3,26.37
+2000,Corrientes,Litoral,25.77,26.37
+2001,Corrientes,Litoral,26.59,26.37
+2002,Corrientes,Litoral,26.23,26.37
+2003,Corrientes,Litoral,26.48,26.37
+2004,Corrientes,Litoral,26.48,26.37
+2005,Corrientes,Litoral,26.32,26.37
+2006,Corrientes,Litoral,27.35,26.37
+2007,Corrientes,Litoral,25.97,26.37
+2008,Corrientes,Litoral,27.02,26.37
+2009,Corrientes,Litoral,26.83,26.37
+2010,Corrientes,Litoral,26.12,26.37
+2011,Corrientes,Litoral,26.42,26.37
+2012,Corrientes,Litoral,27.36,26.37
+2013,Corrientes,Litoral,26.46,26.37
+2014,Corrientes,Litoral,26.78,26.37
+2015,Corrientes,Litoral,26.7,26.37
+2016,Corrientes,Litoral,25.91,26.37
+2017,Corrientes,Litoral,26.83,26.37
+2018,Corrientes,Litoral,26.54,26.37
+2019,Corrientes,Litoral,26.5,26.37
+2020,Corrientes,Litoral,27.4,26.37
+1901,Misiones,Litoral,26.1,26.63
+1902,Misiones,Litoral,26.69,26.63
+1903,Misiones,Litoral,26.01,26.63
+1904,Misiones,Litoral,25.77,26.63
+1905,Misiones,Litoral,25.9,26.63
+1906,Misiones,Litoral,26.51,26.63
+1907,Misiones,Litoral,25.79,26.63
+1908,Misiones,Litoral,25.86,26.63
+1909,Misiones,Litoral,25.83,26.63
+1910,Misiones,Litoral,26.02,26.63
+1911,Misiones,Litoral,25.65,26.63
+1912,Misiones,Litoral,26.14,26.63
+1913,Misiones,Litoral,26.02,26.63
+1914,Misiones,Litoral,26.35,26.63
+1915,Misiones,Litoral,25.94,26.63
+1916,Misiones,Litoral,25.59,26.63
+1917,Misiones,Litoral,25.2,26.63
+1918,Misiones,Litoral,25.42,26.63
+1919,Misiones,Litoral,26.4,26.63
+1920,Misiones,Litoral,26.02,26.63
+1921,Misiones,Litoral,25.87,26.63
+1922,Misiones,Litoral,25.91,26.63
+1923,Misiones,Litoral,26.09,26.63
+1924,Misiones,Litoral,25.42,26.63
+1925,Misiones,Litoral,26.2,26.63
+1926,Misiones,Litoral,26.97,26.63
+1927,Misiones,Litoral,26.33,26.63
+1928,Misiones,Litoral,26.12,26.63
+1929,Misiones,Litoral,26.22,26.63
+1930,Misiones,Litoral,26.58,26.63
+1931,Misiones,Litoral,26.15,26.63
+1932,Misiones,Litoral,27.04,26.63
+1933,Misiones,Litoral,26.93,26.63
+1934,Misiones,Litoral,26.71,26.63
+1935,Misiones,Litoral,26.83,26.63
+1936,Misiones,Litoral,26.88,26.63
+1937,Misiones,Litoral,26.56,26.63
+1938,Misiones,Litoral,26.34,26.63
+1939,Misiones,Litoral,26.77,26.63
+1940,Misiones,Litoral,26.77,26.63
+1941,Misiones,Litoral,26.71,26.63
+1942,Misiones,Litoral,27.13,26.63
+1943,Misiones,Litoral,27.52,26.63
+1944,Misiones,Litoral,28.32,26.63
+1945,Misiones,Litoral,28.01,26.63
+1946,Misiones,Litoral,26.7,26.63
+1947,Misiones,Litoral,26.78,26.63
+1948,Misiones,Litoral,27.03,26.63
+1949,Misiones,Litoral,27.09,26.63
+1950,Misiones,Litoral,27.07,26.63
+1951,Misiones,Litoral,26.97,26.63
+1952,Misiones,Litoral,27.1,26.63
+1953,Misiones,Litoral,27.46,26.63
+1954,Misiones,Litoral,27.13,26.63
+1955,Misiones,Litoral,26.68,26.63
+1956,Misiones,Litoral,26.35,26.63
+1957,Misiones,Litoral,27.02,26.63
+1958,Misiones,Litoral,27.27,26.63
+1959,Misiones,Litoral,27.31,26.63
+1960,Misiones,Litoral,27.12,26.63
+1961,Misiones,Litoral,27.4,26.63
+1962,Misiones,Litoral,26.8,26.63
+1963,Misiones,Litoral,27.65,26.63
+1964,Misiones,Litoral,27.06,26.63
+1965,Misiones,Litoral,26.69,26.63
+1966,Misiones,Litoral,26.87,26.63
+1967,Misiones,Litoral,27.22,26.63
+1968,Misiones,Litoral,26.89,26.63
+1969,Misiones,Litoral,26.89,26.63
+1970,Misiones,Litoral,26.98,26.63
+1971,Misiones,Litoral,26.29,26.63
+1972,Misiones,Litoral,26.44,26.63
+1973,Misiones,Litoral,25.9,26.63
+1974,Misiones,Litoral,26.24,26.63
+1975,Misiones,Litoral,25.93,26.63
+1976,Misiones,Litoral,26.12,26.63
+1977,Misiones,Litoral,27.36,26.63
+1978,Misiones,Litoral,27.3,26.63
+1979,Misiones,Litoral,26.3,26.63
+1980,Misiones,Litoral,26.86,26.63
+1981,Misiones,Litoral,26.93,26.63
+1982,Misiones,Litoral,26.94,26.63
+1983,Misiones,Litoral,25.91,26.63
+1984,Misiones,Litoral,26.3,26.63
+1985,Misiones,Litoral,27.11,26.63
+1986,Misiones,Litoral,26.87,26.63
+1987,Misiones,Litoral,26.04,26.63
+1988,Misiones,Litoral,26.59,26.63
+1989,Misiones,Litoral,26.01,26.63
+1990,Misiones,Litoral,25.95,26.63
+1991,Misiones,Litoral,26.95,26.63
+1992,Misiones,Litoral,25.63,26.63
+1993,Misiones,Litoral,26.56,26.63
+1994,Misiones,Litoral,27.02,26.63
+1995,Misiones,Litoral,26.99,26.63
+1996,Misiones,Litoral,26.14,26.63
+1997,Misiones,Litoral,26.98,26.63
+1998,Misiones,Litoral,25.94,26.63
+1999,Misiones,Litoral,26.8,26.63
+2000,Misiones,Litoral,26.39,26.63
+2001,Misiones,Litoral,27.09,26.63
+2002,Misiones,Litoral,26.94,26.63
+2003,Misiones,Litoral,27.15,26.63
+2004,Misiones,Litoral,26.7,26.63
+2005,Misiones,Litoral,26.75,26.63
+2006,Misiones,Litoral,27.51,26.63
+2007,Misiones,Litoral,26.44,26.63
+2008,Misiones,Litoral,26.9,26.63
+2009,Misiones,Litoral,26.86,26.63
+2010,Misiones,Litoral,26.37,26.63
+2011,Misiones,Litoral,26.8,26.63
+2012,Misiones,Litoral,27.7,26.63
+2013,Misiones,Litoral,26.67,26.63
+2014,Misiones,Litoral,27.2,26.63
+2015,Misiones,Litoral,27.04,26.63
+2016,Misiones,Litoral,26.34,26.63
+2017,Misiones,Litoral,27.25,26.63
+2018,Misiones,Litoral,26.73,26.63
+2019,Misiones,Litoral,27.2,26.63
+2020,Misiones,Litoral,27.91,26.63
+1901,Santiago del Estero,NOA,28.51,27.95
+1902,Santiago del Estero,NOA,28.25,27.95
+1903,Santiago del Estero,NOA,27.63,27.95
+1904,Santiago del Estero,NOA,27.79,27.95
+1905,Santiago del Estero,NOA,27.5,27.95
+1906,Santiago del Estero,NOA,28.38,27.95
+1907,Santiago del Estero,NOA,27.47,27.95
+1908,Santiago del Estero,NOA,27.8,27.95
+1909,Santiago del Estero,NOA,27.71,27.95
+1910,Santiago del Estero,NOA,27.66,27.95
+1911,Santiago del Estero,NOA,27.45,27.95
+1912,Santiago del Estero,NOA,28.28,27.95
+1913,Santiago del Estero,NOA,28.7,27.95
+1914,Santiago del Estero,NOA,28.09,27.95
+1915,Santiago del Estero,NOA,28.02,27.95
+1916,Santiago del Estero,NOA,27.89,27.95
+1917,Santiago del Estero,NOA,27.53,27.95
+1918,Santiago del Estero,NOA,27.45,27.95
+1919,Santiago del Estero,NOA,28.21,27.95
+1920,Santiago del Estero,NOA,28.09,27.95
+1921,Santiago del Estero,NOA,27.28,27.95
+1922,Santiago del Estero,NOA,27.24,27.95
+1923,Santiago del Estero,NOA,27.58,27.95
+1924,Santiago del Estero,NOA,27.41,27.95
+1925,Santiago del Estero,NOA,28.05,27.95
+1926,Santiago del Estero,NOA,28.5,27.95
+1927,Santiago del Estero,NOA,27.82,27.95
+1928,Santiago del Estero,NOA,27.08,27.95
+1929,Santiago del Estero,NOA,28.1,27.95
+1930,Santiago del Estero,NOA,28.14,27.95
+1931,Santiago del Estero,NOA,26.97,27.95
+1932,Santiago del Estero,NOA,28.18,27.95
+1933,Santiago del Estero,NOA,27.84,27.95
+1934,Santiago del Estero,NOA,27.52,27.95
+1935,Santiago del Estero,NOA,28.19,27.95
+1936,Santiago del Estero,NOA,28.13,27.95
+1937,Santiago del Estero,NOA,28.36,27.95
+1938,Santiago del Estero,NOA,27.51,27.95
+1939,Santiago del Estero,NOA,27.87,27.95
+1940,Santiago del Estero,NOA,27.49,27.95
+1941,Santiago del Estero,NOA,27.71,27.95
+1942,Santiago del Estero,NOA,27.49,27.95
+1943,Santiago del Estero,NOA,27.8,27.95
+1944,Santiago del Estero,NOA,29.03,27.95
+1945,Santiago del Estero,NOA,29,27.95
+1946,Santiago del Estero,NOA,27.73,27.95
+1947,Santiago del Estero,NOA,27.74,27.95
+1948,Santiago del Estero,NOA,28.17,27.95
+1949,Santiago del Estero,NOA,27.7,27.95
+1950,Santiago del Estero,NOA,28,27.95
+1951,Santiago del Estero,NOA,28.1,27.95
+1952,Santiago del Estero,NOA,27.68,27.95
+1953,Santiago del Estero,NOA,28.21,27.95
+1954,Santiago del Estero,NOA,27.57,27.95
+1955,Santiago del Estero,NOA,27.26,27.95
+1956,Santiago del Estero,NOA,26.55,27.95
+1957,Santiago del Estero,NOA,27.41,27.95
+1958,Santiago del Estero,NOA,27.86,27.95
+1959,Santiago del Estero,NOA,27.2,27.95
+1960,Santiago del Estero,NOA,27.97,27.95
+1961,Santiago del Estero,NOA,28.24,27.95
+1962,Santiago del Estero,NOA,28.09,27.95
+1963,Santiago del Estero,NOA,27.65,27.95
+1964,Santiago del Estero,NOA,27.83,27.95
+1965,Santiago del Estero,NOA,28.37,27.95
+1966,Santiago del Estero,NOA,27.86,27.95
+1967,Santiago del Estero,NOA,28.41,27.95
+1968,Santiago del Estero,NOA,28.41,27.95
+1969,Santiago del Estero,NOA,29.14,27.95
+1970,Santiago del Estero,NOA,29.02,27.95
+1971,Santiago del Estero,NOA,28.39,27.95
+1972,Santiago del Estero,NOA,28.13,27.95
+1973,Santiago del Estero,NOA,27.39,27.95
+1974,Santiago del Estero,NOA,27.58,27.95
+1975,Santiago del Estero,NOA,28.05,27.95
+1976,Santiago del Estero,NOA,27.72,27.95
+1977,Santiago del Estero,NOA,28,27.95
+1978,Santiago del Estero,NOA,28.21,27.95
+1979,Santiago del Estero,NOA,27.61,27.95
+1980,Santiago del Estero,NOA,28.35,27.95
+1981,Santiago del Estero,NOA,27.75,27.95
+1982,Santiago del Estero,NOA,27.79,27.95
+1983,Santiago del Estero,NOA,27.26,27.95
+1984,Santiago del Estero,NOA,26.58,27.95
+1985,Santiago del Estero,NOA,27.66,27.95
+1986,Santiago del Estero,NOA,28.16,27.95
+1987,Santiago del Estero,NOA,27.94,27.95
+1988,Santiago del Estero,NOA,28.05,27.95
+1989,Santiago del Estero,NOA,28.7,27.95
+1990,Santiago del Estero,NOA,27.59,27.95
+1991,Santiago del Estero,NOA,27.89,27.95
+1992,Santiago del Estero,NOA,27.23,27.95
+1993,Santiago del Estero,NOA,27.87,27.95
+1994,Santiago del Estero,NOA,28.81,27.95
+1995,Santiago del Estero,NOA,28.55,27.95
+1996,Santiago del Estero,NOA,27.87,27.95
+1997,Santiago del Estero,NOA,28.73,27.95
+1998,Santiago del Estero,NOA,27.42,27.95
+1999,Santiago del Estero,NOA,27.24,27.95
+2000,Santiago del Estero,NOA,27.12,27.95
+2001,Santiago del Estero,NOA,27.62,27.95
+2002,Santiago del Estero,NOA,27.85,27.95
+2003,Santiago del Estero,NOA,28.5,27.95
+2004,Santiago del Estero,NOA,28.36,27.95
+2005,Santiago del Estero,NOA,27.98,27.95
+2006,Santiago del Estero,NOA,28.89,27.95
+2007,Santiago del Estero,NOA,27.38,27.95
+2008,Santiago del Estero,NOA,28.59,27.95
+2009,Santiago del Estero,NOA,29.08,27.95
+2010,Santiago del Estero,NOA,27.9,27.95
+2011,Santiago del Estero,NOA,27.99,27.95
+2012,Santiago del Estero,NOA,28.98,27.95
+2013,Santiago del Estero,NOA,28.99,27.95
+2014,Santiago del Estero,NOA,28.3,27.95
+2015,Santiago del Estero,NOA,28.1,27.95
+2016,Santiago del Estero,NOA,27.34,27.95
+2017,Santiago del Estero,NOA,28.52,27.95
+2018,Santiago del Estero,NOA,28.13,27.95
+2019,Santiago del Estero,NOA,27.74,27.95
+2020,Santiago del Estero,NOA,29.17,27.95
+1901,Chaco,Litoral,28.88,28.45
+1902,Chaco,Litoral,28.8,28.45
+1903,Chaco,Litoral,28.09,28.45
+1904,Chaco,Litoral,28.17,28.45
+1905,Chaco,Litoral,27.93,28.45
+1906,Chaco,Litoral,28.85,28.45
+1907,Chaco,Litoral,27.99,28.45
+1908,Chaco,Litoral,28.28,28.45
+1909,Chaco,Litoral,28.17,28.45
+1910,Chaco,Litoral,28.12,28.45
+1911,Chaco,Litoral,27.94,28.45
+1912,Chaco,Litoral,28.65,28.45
+1913,Chaco,Litoral,28.71,28.45
+1914,Chaco,Litoral,28.32,28.45
+1915,Chaco,Litoral,28.19,28.45
+1916,Chaco,Litoral,28.03,28.45
+1917,Chaco,Litoral,27.74,28.45
+1918,Chaco,Litoral,27.71,28.45
+1919,Chaco,Litoral,28.59,28.45
+1920,Chaco,Litoral,28.34,28.45
+1921,Chaco,Litoral,27.78,28.45
+1922,Chaco,Litoral,27.69,28.45
+1923,Chaco,Litoral,28.04,28.45
+1924,Chaco,Litoral,27.78,28.45
+1925,Chaco,Litoral,28.37,28.45
+1926,Chaco,Litoral,28.96,28.45
+1927,Chaco,Litoral,28.19,28.45
+1928,Chaco,Litoral,27.63,28.45
+1929,Chaco,Litoral,28.37,28.45
+1930,Chaco,Litoral,28.58,28.45
+1931,Chaco,Litoral,27.82,28.45
+1932,Chaco,Litoral,28.85,28.45
+1933,Chaco,Litoral,28.68,28.45
+1934,Chaco,Litoral,28.41,28.45
+1935,Chaco,Litoral,28.93,28.45
+1936,Chaco,Litoral,28.91,28.45
+1937,Chaco,Litoral,28.91,28.45
+1938,Chaco,Litoral,28.16,28.45
+1939,Chaco,Litoral,28.53,28.45
+1940,Chaco,Litoral,28.36,28.45
+1941,Chaco,Litoral,28.42,28.45
+1942,Chaco,Litoral,28.44,28.45
+1943,Chaco,Litoral,28.77,28.45
+1944,Chaco,Litoral,29.97,28.45
+1945,Chaco,Litoral,29.73,28.45
+1946,Chaco,Litoral,28.4,28.45
+1947,Chaco,Litoral,28.49,28.45
+1948,Chaco,Litoral,28.98,28.45
+1949,Chaco,Litoral,28.64,28.45
+1950,Chaco,Litoral,28.71,28.45
+1951,Chaco,Litoral,28.83,28.45
+1952,Chaco,Litoral,28.55,28.45
+1953,Chaco,Litoral,29.1,28.45
+1954,Chaco,Litoral,28.5,28.45
+1955,Chaco,Litoral,28.17,28.45
+1956,Chaco,Litoral,27.23,28.45
+1957,Chaco,Litoral,28.08,28.45
+1958,Chaco,Litoral,28.54,28.45
+1959,Chaco,Litoral,28.25,28.45
+1960,Chaco,Litoral,28.44,28.45
+1961,Chaco,Litoral,28.99,28.45
+1962,Chaco,Litoral,28.32,28.45
+1963,Chaco,Litoral,29.04,28.45
+1964,Chaco,Litoral,28.45,28.45
+1965,Chaco,Litoral,28.38,28.45
+1966,Chaco,Litoral,28.35,28.45
+1967,Chaco,Litoral,28.8,28.45
+1968,Chaco,Litoral,28.8,28.45
+1969,Chaco,Litoral,29.1,28.45
+1970,Chaco,Litoral,29.28,28.45
+1971,Chaco,Litoral,28.43,28.45
+1972,Chaco,Litoral,28.37,28.45
+1973,Chaco,Litoral,27.73,28.45
+1974,Chaco,Litoral,28.01,28.45
+1975,Chaco,Litoral,28.18,28.45
+1976,Chaco,Litoral,28.24,28.45
+1977,Chaco,Litoral,28.78,28.45
+1978,Chaco,Litoral,29.18,28.45
+1979,Chaco,Litoral,28.13,28.45
+1980,Chaco,Litoral,28.6,28.45
+1981,Chaco,Litoral,28.22,28.45
+1982,Chaco,Litoral,28.24,28.45
+1983,Chaco,Litoral,27.64,28.45
+1984,Chaco,Litoral,27.44,28.45
+1985,Chaco,Litoral,28.49,28.45
+1986,Chaco,Litoral,28.72,28.45
+1987,Chaco,Litoral,28.22,28.45
+1988,Chaco,Litoral,28.49,28.45
+1989,Chaco,Litoral,28.55,28.45
+1990,Chaco,Litoral,28.02,28.45
+1991,Chaco,Litoral,28.59,28.45
+1992,Chaco,Litoral,27.58,28.45
+1993,Chaco,Litoral,28.4,28.45
+1994,Chaco,Litoral,29.08,28.45
+1995,Chaco,Litoral,28.6,28.45
+1996,Chaco,Litoral,27.93,28.45
+1997,Chaco,Litoral,28.99,28.45
+1998,Chaco,Litoral,27.58,28.45
+1999,Chaco,Litoral,27.95,28.45
+2000,Chaco,Litoral,27.77,28.45
+2001,Chaco,Litoral,28.51,28.45
+2002,Chaco,Litoral,28.41,28.45
+2003,Chaco,Litoral,28.92,28.45
+2004,Chaco,Litoral,28.52,28.45
+2005,Chaco,Litoral,28.4,28.45
+2006,Chaco,Litoral,29.29,28.45
+2007,Chaco,Litoral,28.05,28.45
+2008,Chaco,Litoral,28.86,28.45
+2009,Chaco,Litoral,29.05,28.45
+2010,Chaco,Litoral,28.12,28.45
+2011,Chaco,Litoral,28.33,28.45
+2012,Chaco,Litoral,29.47,28.45
+2013,Chaco,Litoral,29,28.45
+2014,Chaco,Litoral,28.83,28.45
+2015,Chaco,Litoral,28.61,28.45
+2016,Chaco,Litoral,27.84,28.45
+2017,Chaco,Litoral,28.87,28.45
+2018,Chaco,Litoral,28.46,28.45
+2019,Chaco,Litoral,28.42,28.45
+2020,Chaco,Litoral,29.8,28.45
+1901,Formosa,Litoral,29.86,29.34
+1902,Formosa,Litoral,29.89,29.34
+1903,Formosa,Litoral,29.14,29.34
+1904,Formosa,Litoral,29.08,29.34
+1905,Formosa,Litoral,28.9,29.34
+1906,Formosa,Litoral,29.8,29.34
+1907,Formosa,Litoral,29.02,29.34
+1908,Formosa,Litoral,29.25,29.34
+1909,Formosa,Litoral,29.13,29.34
+1910,Formosa,Litoral,29.1,29.34
+1911,Formosa,Litoral,28.88,29.34
+1912,Formosa,Litoral,29.47,29.34
+1913,Formosa,Litoral,29.37,29.34
+1914,Formosa,Litoral,29.15,29.34
+1915,Formosa,Litoral,29.09,29.34
+1916,Formosa,Litoral,28.8,29.34
+1917,Formosa,Litoral,28.48,29.34
+1918,Formosa,Litoral,28.53,29.34
+1919,Formosa,Litoral,29.51,29.34
+1920,Formosa,Litoral,29.19,29.34
+1921,Formosa,Litoral,28.75,29.34
+1922,Formosa,Litoral,28.65,29.34
+1923,Formosa,Litoral,28.98,29.34
+1924,Formosa,Litoral,28.69,29.34
+1925,Formosa,Litoral,29.25,29.34
+1926,Formosa,Litoral,29.9,29.34
+1927,Formosa,Litoral,29.05,29.34
+1928,Formosa,Litoral,28.69,29.34
+1929,Formosa,Litoral,29.12,29.34
+1930,Formosa,Litoral,29.47,29.34
+1931,Formosa,Litoral,28.78,29.34
+1932,Formosa,Litoral,29.7,29.34
+1933,Formosa,Litoral,29.63,29.34
+1934,Formosa,Litoral,29.43,29.34
+1935,Formosa,Litoral,29.87,29.34
+1936,Formosa,Litoral,29.88,29.34
+1937,Formosa,Litoral,29.75,29.34
+1938,Formosa,Litoral,29.2,29.34
+1939,Formosa,Litoral,29.48,29.34
+1940,Formosa,Litoral,29.44,29.34
+1941,Formosa,Litoral,29.45,29.34
+1942,Formosa,Litoral,29.49,29.34
+1943,Formosa,Litoral,29.73,29.34
+1944,Formosa,Litoral,30.79,29.34
+1945,Formosa,Litoral,30.47,29.34
+1946,Formosa,Litoral,29.43,29.34
+1947,Formosa,Litoral,29.41,29.34
+1948,Formosa,Litoral,29.99,29.34
+1949,Formosa,Litoral,29.61,29.34
+1950,Formosa,Litoral,29.58,29.34
+1951,Formosa,Litoral,29.72,29.34
+1952,Formosa,Litoral,29.49,29.34
+1953,Formosa,Litoral,30.04,29.34
+1954,Formosa,Litoral,29.52,29.34
+1955,Formosa,Litoral,29.24,29.34
+1956,Formosa,Litoral,28.25,29.34
+1957,Formosa,Litoral,29.03,29.34
+1958,Formosa,Litoral,29.43,29.34
+1959,Formosa,Litoral,29.37,29.34
+1960,Formosa,Litoral,29.32,29.34
+1961,Formosa,Litoral,29.97,29.34
+1962,Formosa,Litoral,29.28,29.34
+1963,Formosa,Litoral,30.2,29.34
+1964,Formosa,Litoral,29.49,29.34
+1965,Formosa,Litoral,29.31,29.34
+1966,Formosa,Litoral,29.47,29.34
+1967,Formosa,Litoral,29.8,29.34
+1968,Formosa,Litoral,29.73,29.34
+1969,Formosa,Litoral,29.95,29.34
+1970,Formosa,Litoral,30.06,29.34
+1971,Formosa,Litoral,29.13,29.34
+1972,Formosa,Litoral,29.32,29.34
+1973,Formosa,Litoral,28.59,29.34
+1974,Formosa,Litoral,28.82,29.34
+1975,Formosa,Litoral,28.92,29.34
+1976,Formosa,Litoral,29.05,29.34
+1977,Formosa,Litoral,29.68,29.34
+1978,Formosa,Litoral,30.17,29.34
+1979,Formosa,Litoral,28.98,29.34
+1980,Formosa,Litoral,29.37,29.34
+1981,Formosa,Litoral,29.07,29.34
+1982,Formosa,Litoral,28.95,29.34
+1983,Formosa,Litoral,28.42,29.34
+1984,Formosa,Litoral,28.37,29.34
+1985,Formosa,Litoral,29.29,29.34
+1986,Formosa,Litoral,29.49,29.34
+1987,Formosa,Litoral,28.93,29.34
+1988,Formosa,Litoral,29.28,29.34
+1989,Formosa,Litoral,29.12,29.34
+1990,Formosa,Litoral,28.85,29.34
+1991,Formosa,Litoral,29.45,29.34
+1992,Formosa,Litoral,28.32,29.34
+1993,Formosa,Litoral,29.26,29.34
+1994,Formosa,Litoral,29.84,29.34
+1995,Formosa,Litoral,29.48,29.34
+1996,Formosa,Litoral,28.72,29.34
+1997,Formosa,Litoral,29.75,29.34
+1998,Formosa,Litoral,28.42,29.34
+1999,Formosa,Litoral,28.91,29.34
+2000,Formosa,Litoral,28.8,29.34
+2001,Formosa,Litoral,29.53,29.34
+2002,Formosa,Litoral,29.48,29.34
+2003,Formosa,Litoral,29.86,29.34
+2004,Formosa,Litoral,29.2,29.34
+2005,Formosa,Litoral,29.22,29.34
+2006,Formosa,Litoral,30.05,29.34
+2007,Formosa,Litoral,28.96,29.34
+2008,Formosa,Litoral,29.46,29.34
+2009,Formosa,Litoral,29.71,29.34
+2010,Formosa,Litoral,28.96,29.34
+2011,Formosa,Litoral,29.15,29.34
+2012,Formosa,Litoral,30.2,29.34
+2013,Formosa,Litoral,29.64,29.34
+2014,Formosa,Litoral,29.64,29.34
+2015,Formosa,Litoral,29.43,29.34
+2016,Formosa,Litoral,28.69,29.34
+2017,Formosa,Litoral,29.67,29.34
+2018,Formosa,Litoral,29.18,29.34
+2019,Formosa,Litoral,29.37,29.34
+2020,Formosa,Litoral,30.72,29.34

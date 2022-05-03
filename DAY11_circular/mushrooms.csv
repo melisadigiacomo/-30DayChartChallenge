@@ -1,0 +1,17 @@
+root,group,subgroup,subsubgroup,value
+root,stalk_surface_above_ring,fibrous,edible,408
+root,stalk_surface_above_ring,fibrous,poisonous,144
+root,stalk_surface_above_ring,silky,edible,144
+root,stalk_surface_above_ring,silky,poisonous,2228
+root,stalk_surface_above_ring,smooth,edible,3640
+root,stalk_surface_above_ring,smooth,poisonous,1536
+root,stalk_surface_below_ring,fibrous,edible,456
+root,stalk_surface_below_ring,fibrous,poisonous,144
+root,stalk_surface_below_ring,silky,edible,144
+root,stalk_surface_below_ring,silky,poisonous,2160
+root,stalk_surface_below_ring,smooth,edible,3400
+root,stalk_surface_below_ring,smooth,poisonous,1536
+root,gill_size,broad,edible,3920
+root,gill_size,broad,poisonous,1692
+root,gill_size,narrow,edible,288
+root,gill_size,narrow,poisonous,2224
